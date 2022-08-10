@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Debdipta Goswami {{<span lang="bn" xml:lang="bn">}}দেবদীপ্ত গোস্বামী{{</span>}}
+
+~~~
+{}{img_left}{photos/dgoswami.jpg}{alt text}{220}{300}{http://goswamid.mycpanel.princeton.edu}
+Postdoctoral Research Associate,\n [https://mae.princeton.edu/ Department of Mechanical and Aerospace Engineering], \n[https://princeton.edu/ Princeton University]\n
+Engineering Quadrangle \n
+41 Olden Street \n
+H125 Von Neumann Hall \n
+Princeton, NJ, 08544 \n United States of America \n
+Phone: \+1 240-601-4255 \n
+E-mail: /goswamid/ \[@\] princeton \[DOT\] edu, /goswamid/ \[@\] umd \[DOT\] edu
+
+~~~
+
+== About me
+Thank you for visiting my site. I am currently working as a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering ([https://mae.princeton.edu/ MAE]) at Princeton University with [http://cwrowley.princeton.edu Prof. Clancy Rowley]. I received my Ph.D. in Electrical and Computer Engineering from University of Maryland ([https://ece.umd.edu/ UMD]), USA, under the supervision of [https://aero.umd.edu/clark/faculty/58/Derek-A-Paley/ Prof. Derek A. Paley] in 2020. Prior to that, I did my undergrad in Electronics and Telecommunication Engineering from [http://www.jaduniv.edu.in/ Jadavpur University], India in 2015.
+
+I am starting as an assistant professor at the Ohio State University MAE from Fall 2022 and looking for PhD students in the area of control, dynamical systems, machine learning, and aerial robotics. Please consider sending me an email with your CV if interested.
+== Recent news
+~~
+- 2022/06 I will join The Ohio State University at the Department of Mecanical and Aerospace Engineering as an assistant professor from Fall 2022.
+- 2022/03 Our article on optimal control while learning on the fly got accepted in L4DC 2022. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]
+- 2021/09 Our article on data-driven study of urban micromobility got accepted for publication in the IEEE Control Systems Magazine.
+- 2021/06 Our paper on bilinear representation of nonlinear control systems using Koopman spectra got accepted for publication in the IEEE Transactions on Automatic Control. \[[https://ieeexplore.ieee.org/abstract/document/9454367 link]\]
+- 2021/05 Our paper on data-driven sparse estimation using Echo-State Networks is presented in American Control  Conference, 2021. See the video [Presentation.mp4 here].
+- 2020/11: Our paper on online parameter estimation and output feedback control of pitching airfoil got accepted for publication in AIAA Journal of Guidance, Control, and Dynamics. \[[https://arc.aiaa.org/doi/10.2514/1.G005441 link]\]
+- 2020/09: I started working as a postdoc at Princeton MAE with [http://cwrowley.princeton.edu Prof. Rowley] on the project of optimal control with learning on the fly.
+- 2020/07: Our paper titled "Non-Gaussian estimation and output feedback using the Gaussian Mixture Model Kalman Filter" got accepted for publication in AIAA Journal of Guidance, Control, and Dynamics. \[[https://arc.aiaa.org/doi/abs/10.2514/1.G005005 link]\]
+#- 2020/06: Our paper on cooperative mapping and target search will be presented at ICRA 2020, see the video [https://www.youtube.com/watch?v=CRqbNxNgou0&feature=youtu.be&list=PL73E112130772D9FC here].
+#- 2020/05: I defended my dissertation titled \"Estimation and Control of Nonlinear Systems: Model-Based and Model-Free Approaches\" successfully.
+#- 2020/03: Our paper on cooperative mapping and target search is featured in the [https://robotics.umd.edu/news/story/a-cooperative-control-algorithm-for-robotic-search-and-rescue MRC news].
+#- 2020/01: Our paper on cooperative mapping and target search has been accepted by IEEE Robotics and Automation Letters.
+#- 2019/11: Our heterogeneous quadrotor platform at the Fearless Flight Facility is featured in this [https://www.youtube.com/watch?v=Eu-fdq9af4Q&feature=youtu.be video] and [https://view.publitas.com/maryland-robotics-center/umd_mrcnews_fall2019_final_oct28/page/8-9 MRC newsletter].
+#- 2019/08: I presented our work on data-driven estimation and control of nonlinear system using a Koopman spectral approach at Université Catholique de Louvain. The slides are [UCLouvain_Goswami.pdf here].
+#- 2019/08: Our paper on output feedback control for lift maximization of a pitching airfoil is accepted in the AIAA SciTech Forum 2020.
+~~
+== Research
+My research interests include 
+- Control and Estimation of Nonlinear Systems 
+- Transfer Operator Based Approach to Dynamical Systems
+- Koopman Operator Theory
+- Data-Driven Algorithms for Control of Complex Systems
+
+[research.html Find out more].
+
+== Visitors 

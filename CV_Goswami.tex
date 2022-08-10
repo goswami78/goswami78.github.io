@@ -1,0 +1,331 @@
+\documentclass[line,pifont,palatino,courier]{res}
+
+\usepackage{pifont}
+%\usepackage{csquotes}
+\usepackage[latin1] {inputenc}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\topmargin -.5in
+%\oddsidemargin -.5in
+\evensidemargin -.5in
+\rightmargin -.5in
+%\textwidth=6.5in
+ \textheight=9.6in
+\itemsep=0in
+\parsep=0in
+\usepackage{fancyhdr}
+%\topmargin=0in
+%\textheight=8.5in
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+%\cfoot{\thepage}
+%\lfoot{\textit{\footnotesize Research Statement}}
+\rfoot{{\footnotesize Curriculum Vitae, Debdipta Goswami, \thepage}}
+
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.15in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\begin{document}
+
+\name{Debdipta Goswami \vspace*{.1in}}
+
+\begin{resume}
+
+\section{Contact Information}
+
+%\vspace{.05in}
+\begin{tabular}{@{}p{3in}p{2in}}
+Mechanical and Aerospace Engineering &  \\
+Princeton University                  & \verb+goswamid@princeton.edu+\\
+%A.V. Williams Building, Room: 1329    & \verb+goswamid.etce.ju@gmail.com	+\\
+Engineering Quadrangle, Room: H125   &  \verb+https://goswamid.mycpanel.princeton.edu+\\
+08544 NJ, United States of America & \\
+%New York, New York 10012 USA               & \\
+\end{tabular}
+
+\section{Education}
+
+{\bf Electrical and Computer Engineering Department, University of Maryland}
+%\vspace*{-.1in}
+\begin{list1}
+\item[]Doctor of Philosophy, 2020
+
+\begin{list2}
+\vspace*{.05in}
+\item Dissertation Title: \emph{Estimation and Control of Nonlinear System: Model-based and Model-free Approaches}
+\item Adviser: Dr. Derek A. Paley
+%\item CGPA: 3.98/4.000
+\end{list2}
+\end{list1}
+
+
+{\bf Department of Electronics and Telecommunication, Jadavpur University}\\
+\vspace*{-.1in}
+\begin{list1}
+\item[] Bachelor of Electronics and Telecommunication Engineering, 2015
+
+%\begin{list2}
+%\vspace*{.05in}
+%\item Thesis Topic: Gesture driven fuzzy interface system for car racing game
+%\item Adviser: Dr. Amit Konar
+%%\item CGPA: 9.70/10.00 %(percentage of 91.26)
+%\end{list2}
+\end{list1}
+
+\section{Research Interests}
+%My thesis is primarily based on estimation and control of nonlinear systems using mixture models and Koopman operator theoretic approach. I have also worked on target detection and tracking using aerial vehicles and lift control of an airfoil. My interest lies in the \emph{Koopman spectral approach to nonlinear dynamical systems and control, stochastic estimation and control of complex nonlinear systems, and implementation of such}.
+%My thesis is primarily based on estimation and control of nonlinear systems using mixture models and Koopman operator theoretic approach. I have also worked on target detection and tracking using aerial vehicles and lift control of an airfoil. My interest lies in the \emph{data-driven estimation and control of nonlinear and complex system and its implementation}.
+
+%My thesis is primarily based on estimation and control of nonlinear systems using mixture models and Koopman operator theoretic approach. I have also worked on target detection and tracking using aerial vehicles and lift control of an airfoil. My interest lies in the \emph{system identification, modeling, and estimation of of nonlinear and complex system and its implementation}.
+
+%My thesis is primarily based on estimation and control of nonlinear systems using mixture models and Koopman operator theoretic approach. I have also worked on target detection and tracking using aerial vehicles and lift control of an airfoil. My interest lies in the \emph{estimation and control of nonlinear and complex systems and its applications}.
+I am broadly interested in designing safety-critical controller for robotic automation from the noisy sensor data and resource constraints. I want to apply tools from dynamical systems, Koopman operator theory, machine learning, and temporal logic to develop a framework of data-driven model identification, estimation, and control with a guarantee of performance to achieve ``assured autonomy''. Some of my past and current research interests are
+\begin{itemize}
+\item learning dynamical systems with unknown parameters,
+\item nonlinear estimation and stochastic control,
+\item data-driven reduced-order modeling and control of complex systems,
+\item transfer operator based approach to dynamical systems,
+\item autonomous tracking and search using drones.
+\end{itemize}
+
+
+
+\section{Scientific Research Experience}
+
+\begin{tabular}{@{}R{1.4in}L{4.5in}}
+
+Sep 2020 - Current & Postdoctoral Research Associate\\
+& Control design with learning on the fly\\
+& Adviser: Dr. Clarence W. Rowley, Mechanical and Aerospace Engineering,\\
+& Princeton University.\\\\
+
+Jan 2016 - May 2020 & Graduate Research Assistant \\
+& Estimation and Control of A Nonlinear System Using Mixture-Model and Transfer Operators\\
+& Adviser: Dr. Derek A. Paley, Aerospace Engineering, \\ & University of Maryland, College Park.\\\\
+
+%Aug 2014 - May 2015 & Bachelor Thesis Research\\
+%& Gesture Driven Game Control\\
+%& Adviser: Dr. Amit Konar, Electronics and Telecomm. Engineering, \\ & Jadavpur University.\\\\
+%
+May 2014 - Aug 2014 & Summer Research Intern. \\
+& Investigation of a collective decision making system of different
+neighbourhood-size based on hyper-geometric distribution\\
+& Adviser: Dr. Heiko Hamann, Department of Computer Science,\\
+& Universit\"at Paderborn.
+
+%2013-14 & Undergraduate Researcher\\
+%& Analysis of the crowd and pedestrian system with a Lagrangian approach. \\
+%&  Adviser: Dr. Swagatam Das, Electronics and Communication Sciences Unit,\\
+%&  Indian Statistical Institute.\\\\
+
+%2013-14 & Undergraduate Researcher\\
+%& Analysis of different bifurcations occurring in a simple circuit.\\
+%& Adviser: Dr. Subhankar Ray, Department of Physics, Jadavpur University.\\\\
+
+%2013 & Analysis of the dynamics of the fittest particle in Particle-Swarm-Optimization during stagnation.\\
+%&  Advisor: Dr. Swagatam Das, Electronics and Communication Sciences Unit, Indian Statistical Institute.\\\\
+
+%2012-13 & Undergraduate Researcher\\
+%& Development of a novel swarm dynamics with applications in multi-agent systems.\\
+%& Advisor: Dr. Swagatam Das, Electronics and Communication Sciences Unit, Indian Statistical Institute.\\
+\end{tabular}
+
+%\newpage
+%\section{\sc Relevant Graduate Courseworks}
+%
+%\begin{tabular}{@{}p{2.5in}p{2.5in}}
+%%Undergraduate
+%%\begin{list1}
+%%\item Real Variables
+%%\item Linear Algebra
+%%\item Abstract Algebra
+%%\item Analog and Digital Control Systems
+%%\end{list1}
+%%&
+%%Graduate
+%\begin{list1}
+%\item Systems Theory (ENEE 660)
+%\item Random Processes for Communication and Control (ENEE 620)
+%\item Stochastic Control (ENEE 762)
+%\item Nonlinear Control Systems (ENEE 661)
+%\item Convex Optimization (ENEE 662)
+%\end{list1}
+%&
+%\begin{list1}
+%\item Optimal Control (ENEE 664)
+%\item Adaptive Control (ENEE 765)
+%\item Estimation and Detection Theory (ENEE 621)
+%\item Real Analysis I/II (MATH 630/631)
+%\item Population Games: Evolutionary and Dynamic (ENEE 769E)
+%\end{list1}
+
+%\end{tabular}
+\section{Book Chapters}
+\begin{enumerate}
+\item \textbf{D. Goswami} and D. A. Paley, ``Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", \emph{The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications}, Springer International Publishing, 2020.
+\end{enumerate}
+
+\section{Selected Journal Publications}
+\begin{enumerate}
+\item \textbf{D. Goswami}, A. Riggins and D. A. Paley, ``Data-driven prediction of urban micromobility: A study of dockless e-scooters", accepted for publication in \emph{IEEE Control Systems Magazine}.
+
+\item \textbf{D. Goswami} and D. A. Paley, ``Bilinearization, reachability, and optimal control of control-affine nonlinear systems: a Koopman spectral approach", \emph{IEEE Transactions on Automatic Control}, vol. 67, no. 6, pp. 2715 - 2728, Jun 2022.
+
+\item J. Lidard, \textbf{D. Goswami}, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, ``Output feedback control for lift maximization of a pitching airfoil", \emph{AIAA Journal of Guidance, Control, and Dynamics}, vol, 44, no. 3, pp. 587-594, Mar 2021.
+
+\item \textbf{D. Goswami} and D. A. Paley, ``Non-Gaussian estimation and output feedback using the Gaussian Mixture Kalman Filter", \emph{AIAA Journal of Guidance, Control, and Dynamics}, vol. 44, no. 1, pp. 15-24, Jan 2021.
+
+\item A. Wolek, S. Cheng, \textbf{D. Goswami}, and D. A. Paley, ``Cooperative mapping and search over an unknown occupancy graph using mutual information", \emph{IEEE Robotics and Automation Letters}, vol. 5, pp. 1071-1078, Apr 2020.
+
+\item \textbf{D. Goswami}, E. Thackray and D. A. Paley, ``Constrained Ulam Dynamic Mode Decomposition: Approximation of the Perron-Frobenius Operator for deterministic and stochastic systems", \emph{IEEE Control Systems Letters}, vol. 2, pp. 809-814, Oct 2018.
+
+\item S. Mukherjee, \textbf{D. Goswami} and  S. Chatterjee, ``A Lagrangian approach to modeling and analysis of a crowd dynamics", \emph{IEEE Transactions on Systems, Man and Cybernetics: Systems}, Vol. 45, Issue: 6, June 2015, pp. 865-876.
+\end{enumerate}
+
+
+
+\section{Selected Conference Publications}
+\begin{enumerate}
+\item D. Gurevich, \textbf{D. Goswami}, C. L. Fefferman, C. W. Rowley, ``Optimal Control with Learning on the Fly: System with Unknown Drift", accepted for presentation in \emph{4th Conference on Learning for Dynamics and Control, L4DC 2022}, Stanford University.
+
+\item \textbf{D. Goswami}, Artur Wolek, and Derek A. Paley, ``Data-driven estimation using an Echo-State Neural Network equipped with an Ensemble Kalman Filter", In \emph{Proc. 2021 American Control Conference}, New Orleans, Louisiana, pp. 2543-2548
+
+\item J. Lidard, \textbf{D. Goswami}, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, ``Output feedback control for lift maximization of a pitching airfoil", In \emph{Proc. AIAA SciTech}, Orlando, Florida, 2020, number AIAA-2020-1836, pp. 1-13.
+
+\item \textbf{D. Goswami} and D. A. Paley, ``Global bilinearization and controllability of control-affine nonlinear systems: A Koopman spectral approach", In \emph{Proc. IEEE Conference on Decision and Control}, Melbourne, Australia, 2017, pp. 6107-6112.
+
+\item \textbf{D. Goswami} and D. A. Paley, ``Non-Gaussian estimation and observer-based feedback using the Gaussian Mixture Kalman and Extended Kalman Filters", In \emph{Proc. 2017 American Control Conference}, Seattle, Washington, 2017, pp. 4550-4555.
+\end{enumerate}
+%C. Saha, \textbf{D. Goswami}, S. Saha, A. Konar, A. Lekova, A. K. Nagar, \enquote{A novel gesture driven Fuzzy interface system for car racing game}, \emph{IEEE International Conference on Fuzzy Systems}, August 2-5, 2015, Istanbul, Turkey.
+
+%S. Mukherjee, \textbf{D. Goswami} and  S. Chatterjee, \enquote{A Lagrangian Approach to Modeling and Analysis of a Crowd Dynamics}, \emph{IEEE Transactions on Systems, Man and Cybernetics: Systems}, Volume: 45, Issue: 6, June 2015, pp. 865 - 876.
+
+%Sarthak Chatterjee, \textbf{Debdipta Goswami}, Sudipto Mukherjee and Swagatam Das, \enquote{Behavioral Analysis of the Leader Particle During Stagnation in a Particle Swarm Optimization Algorithm}, \emph{Information Sciences: Informatics and Computer Science Intelligent Systems Applications, Elsevier}, Volume 279, 20 September 2014, Pages 18-36.
+
+%Swagatam Das, \textbf{Debdipta Goswami}, Sarthak Chatterjee  and Sudipto Mukherjee \enquote{Stability and Chaos Analysis of A Novel Swarm Dyanamics with Applications to Multi-agent Systems}, \emph{Engineering Applications of Artificial Intelligence, Elsevier}, Volume 30, April 2014, Pages 189-198.
+
+%Sudipto Mukherjee, Sarthak Chatterjee, \textbf{Debdipta Goswami} and Swagatam Das, \enquote{Differential Evolution with Controlled Annihilation and Regeneration of Individuals and A Novel Mutation Scheme}, \emph{International Conference on Swarm, Evolutionary, and Memetic Computing (SEMCCO 2013)}, Chennai, India, Dec 19-21, 2013, Springer LNCS 8297, pp. 286-297
+
+%\section{\sc Conference \\ Talks}
+%``Non-Gaussian estimation and observer-based feedback using the Gaussian Mixture Kalman and Extended Kalman Filters", \emph{2017 American Control Conference (ACC)}, Seattle, WA, 2017.
+
+%\enquote{Feature-rich bifurcations in a simple electronic circuit}, Parvez Guzdar Memorial Award session, \emph{National Symposium on Nonlinear and Complex Phenomena}, Kolkata, India, Jan 7-9, 2014.
+
+\section{Teaching Experience}
+%
+\begin{tabular}{@{}R{1.4in}L{4.5in}}
+Spring 2022 & Associate in Instruction, Mathematical Methods for Engineering Analysis II (MAE 546), Princeton University\\
+Fall 2021 & Associate in Instruction, Optimal Control and Estimation (MAE 546), Princeton University\\
+Spring 2020 & Co-instructor, Applied Nonlinear Control for Aerospace Systems\qquad (ENAE 743)\\
+Fall 2017 & Graduate Teaching Fellow, Random Processes for Communication and Control (ENEE 620)\\
+Fall 2015 - Spring 2016 & Teaching Assistant, Electromagnetic Wave Propagation (ENEE 381)\\
+%Fall & 2015 & Teaching Assistant, Electromagnetic Wave Propagation (ENEE 381)\\
+%Fall & 1991 & Teaching Assistant, Linear Algebra and Differential Equations\\
+\end{tabular}
+
+\section{Invited Talks}
+\begin{itemize}
+\item ``Data-Driven Identification and Control of Complex Systems with Guaranteed Performance", in \emph{Washington State University}, Pullman, WA, Feb 15, 2022, \emph{Ohio State University}, Columbus, OH, Mar 10, 2022, \emph{Auburn University}, Auburn, AL, Apr 12, 2022, \emph{Utah State University}, Logan, UT, Apr 14, 2022.
+
+
+\item ``Koopman Based Control: Bilinearization, Controllability and Optimal Control of Control-Affine Nonlinear Systems", in \emph{Universit\'{e} catholique de Louvain}, Louvain la Neuve, Aug 27, 2019.
+\end{itemize}
+
+\section{Service}
+\begin{tabular}{@{}R{1.4in}L{1.6in}L{4in}}
+%May 2019 & Radio Operator & Annapolis Striders 10 miles Race\\
+Aug 2018-May 2019& Graduate student member & UMD ECE Department Council\\
+Jun 2018- Jul 2019& President & ECE Graduate Student Association, UMD\\
+August 2017-June 2018 & Vice-President of Academic Affairs & ECEGSA, UMD\\
+%Aug 2016 - Current & Board-member & ECE Graduate Student Association, UMD\\
+Apr 2016- Mar 2019 & Editorial assistant & Automatica Editor Prof. Andr\'{e} L. Tits
+\end{tabular}
+
+%\section{Editorial Experience}
+%Editorial Assistant to Prof. Andr\'e L. Tits, the Editor of Rapid Publications, \emph{Automatica} from April 2016 to March 2019.
+
+%\section{Volunteering Experience}
+%\begin{tabular}{@{}R{1.4in}L{1.0in}L{4in}}
+%%May 2019 & Radio Operator & Annapolis Striders 10 miles Race\\
+%June 2018- July 2019& President & ECE Graduate Student Association (ECEGSA), UMD\\
+%%August 2017-June 2018 & Vice-President of Academic Affairs & ECEGSA, UMD\\\\
+%August 2016 - Current & Board-member & ECEGSA, UMD
+%\end{tabular}
+
+%Vice-President of Academic Affairs, ECE Graduate Student Association since August 2017, serving as a board-member for the same since August 2016.
+
+\section{Honors and Awards}
+
+\begin{tabular}{@{}R{1.4in} p{4.5in}}
+October 2019 & Graduate Student Service Award from UMD ECE\\
+May 2019 & Outstanding Graduate Assistant Award from UMD Graduate School\\
+2018 & Travel Award from Institute for Systems Research (ISR)\\
+May 2018 & Summer Research Fellowship from UMD Graduate School\\
+May 2018 & Outstanding Teaching Assistant Award from UMD ECE\\
+May 2018 & Future Faculty Fellowship from A. J. Clark School of Engineering \\%(Fellowship given to the students motivated towards academia) \\
+August 2015 & Distinguished Graduate Fellowship from A. J. Clark School of Engineering\\
+December 2015 & University Gold Medal in Engineering from Jadavpur University\\
+%May 2014 & LIGO-SURF from California Institute of Technology\\
+May 2014 & WISE Fellowship from DAAD (German Academic Exchange Service)\\
+%2013 & Indu Bhusan Putatunda and Shanti Sudha Putatunda Memorial Gold Plated Silver Medal-2013,\\ 
+%      & Highest percentage in the Department of Electronics and Telecommunication Engineering\\  
+%      &2nd Year University Examination \\
+%2011    & Rank-1 in Medical and Rank-13 in Engineering  \\
+%           & West Bengal Joint Entrance Examination (100000 candidates approx)\\
+%1988--1992 & Chancellor's Scholar, University of California at Berkeley \\
+%1988--1992 & National Merit Scholar\\
+\end{tabular}
+%\newpage
+
+%\section{\sc Extended Professional Travel}
+%
+%\begin{tabular}{@{}p{0.4in}p{0.3in}p{4in}}
+%Fall & 1995 & École normale supérieure de Lyon, Unité de
+%mathématiques pures et appliquées, France\\
+%
+%
+%Summer & 1995 & Time at work trimester on
+%dynamical systems, Institut Henri Poincaré, Paris, France\\
+%\end{tabular}
+%\section{\sc Journals Reviewed}
+%IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems
+
+%\section{Relevant Skills}
+%
+%\begin{tabular}{@{}R{1.4in} L{6in}}
+%
+%High Level Languages:& C, C++, Python\\
+%Simulation Softwares:& Matlab, Mathematica, Multisim, LTSpice\\
+%Hardware Exposure:& Arduino, MS Kinect\\
+%
+%\end{tabular}
+
+%\section{Certifications}
+%FCC Certified Amateur Radio Operator (Call Sign: AC3EH)
+
+\section{References}
+{\bf Derek A. Paley}, Willis H. Young Jr. Professor, Aerospace Engineering, University of Maryland, College Park, \texttt{dpaley@umd.edu}\\
+{\bf Clarence W. Rowley}, Professor, Mechanical and Aerospace Engineering, Princeton University,  \texttt{cwrowley@princeton.edu}\\
+{\bf P. S. Krishnaprasad}, Professor, Electrical and Computer Engineering, University of Maryland, College Park, \texttt{krishna@isr.umd.edu}\\
+{\bf Andr\'e L. Tits}, Professor, Electrical and Computer Engineering, University of Maryland, College Park, \texttt{andre@umd.edu}\\
+{\bf Eyad H. Abed}, Professor, Electrical and Computer Engineering, University of Maryland, College Park, \texttt{abed@umd.edu}\\
+%{\bf Amit Konar}, Professor, Department of Electronics and Telecommunication Engineering, Jadavpur University, \texttt{akonar@etce.jdvu.ac.in}
+%\\{\bf Heiko Hamann}, Assistant Professor, Swarm Intelligence Group, Department of Computer Science, Universit\"at Paderborn, \texttt{heiko.hamann@uni-paderborn.de}
+
+\end{resume}
+\end{document}
