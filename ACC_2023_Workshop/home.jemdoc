@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==ACC2023 Workshop: Recent Developments in Data-Driven Methods for Dynamical Systems and Control
+
+~~~
+{}{img_left}{Industrie4_0.png}{alt text}{330}{300}
+== Abstract
+In the past century, the estimation and control of various systems have been carried out by modeling and analysis of the physical system, and an efficient controller could be designed based on the model. But in recent days, we have moved forward with the great hope of controlling more complicated systems where a reliable model is often hard to find. With the abundant data available from the cheap sensors in present days motivate people to identify a reduced order model from the data.  On the other hand, in several safety-critical applications, one has to learn the behavior of an unknown dynamical system from noisy observations of a very limited number of trajectories. For example, to autonomously land an airplane that has just gone through engine failure, limited time is available to learn the modified dynamics of the plane before appropriate control action can be taken. Despite several advances made in the domain of data-driven modeling, the lack of performance guarantee and scalability prevents their use in a wide range of safety-critical applications. Environmental uncertainties in real-life scenarios also necessitate quick model adaptation and require careful exploration of the surroundings in deployable systems.
+
+This workshop aims to offer a survey of emerging techniques and research problems in employing data-driven modeling for dynamical systems and control. Emphasis will be placed on both recent theoretical developments in structured learning of dynamical systems and emerging applications ranging from space-domain awareness, plasma-physics, computer science, and communication technologies. We will introduce state-of-the-art methods for uncovering dynamical systems properties from simulated and measured data, including nonlinear model reduction, simultaneous learning and control of dynamical systems, learning from partial measurements, safe reinforcement learning, and physics-informed machine learning for robot control. Applications of these emerging methods in human-robot interaction modeling, adaptive bitrate selection in 5G communication systems, as well as computationally efficient simulation of kinetic plasma systems will also be explored. Moreover, several open problems and opportunities for further fruitful collaborative efforts in this emerging field at the intersection of systems and control theory, data science, physics, communication, and machine learning will be articulated and discussed.
+
+
+~~~
+
+== Organizer
+[https://mae.osu.edu/people/goswami.78 *Debdipta Goswami*]\n
+Assistant Professor \n [https://mae.osu.edu/ Department of Mechanical and Aerospace Engineering] \n[https://osu.edu/ The Ohio State University]\n
+E510 Scott Laboratory \n
+201 W 19th Street \n
+Columbus, OH, 43210 \n United States of America \n
+Phone: \+1 614-247-6063 \n
+E-mail: /goswami.78/ \[@\] osu \[DOT\] edu
+
+
