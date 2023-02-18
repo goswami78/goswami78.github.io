@@ -1,0 +1,109 @@
+  # jemdoc: {index.html}, nofooter  
+==Debdipta Goswami {{<span lang="bn" xml:lang="bn">}}দেবদীপ্ত গোস্বামী{{</span>}}
+
+~~~
+{}{img_left}{photos/810_7742.jpg}{alt text}{280}{300}{http://goswamid.mycpanel.princeton.edu}
+Postdoctoral Research Associate,\n [https://mae.princeton.edu/ Department of Mechanical and Aerospace Engineering], \n[https://princeton.edu/ Princeton University]\n
+Engineering Quadrangle \#H125 \n
+41 Olden Street \n
+Princeton, NJ, 08544 \n United States of America \n
+Phone: \+1 240-601-4255 \n
+E-mail: /goswamid/ \[@\] princeton \[DOT\] edu, /goswamid/ \[@\] umd \[DOT\] edu
+
+~~~
+
+== About me
+Thank you for visiting my site. I am currently working as a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering ([https://mae.princeton.edu/ MAE]) at Princeton University with [http://cwrowley.princeton.edu Prof. Clancy Rowley]. I received my Ph.D. in Electrical and Computer Engineering from University of Maryland ([https://ece.umd.edu/ UMD]), USA, under the supervision of [https://aero.umd.edu/clark/faculty/58/Derek-A-Paley/ Prof. Derek A. Paley] in 2020. Prior to that, I did my undergrad in Electronics and Telecommunication Engineering from [http://www.jaduniv.edu.in/ Jadavpur University], India in 2015.
+== Recent news
+~~
+- 2021/01 Our paper on data-driven sparse estimation using Echo-State Networks got accepted for presentation in American Control  Conference, 2021.
+- 2020/11: Our paper on online parameter estimation and output feedback control of pitching airfoil got accepted in for publication in AIAA Journal of Guidance, Control, and Dynamics.
+- 2020/09: I started working as a postdoc at Princeton MAE with [http://cwrowley.princeton.edu Prof. Rowley] on the project of optimal control with learning on the fly.
+- 2020/07: Our paper titled "Non-Gaussian estimation and output feedback using the Gaussian Mixture Model Kalman Filter" got accepted for publication in AIAA Journal of Guidance, Control, and Dynamics.
+- 2020/06: Our paper on cooperative mapping and target search will be presented at ICRA 2020, see the video [https://www.youtube.com/watch?v=CRqbNxNgou0&feature=youtu.be&list=PL73E112130772D9FC here].
+- 2020/05: I defended my dissertation titled \"Estimation and Control of Nonlinear Systems: Model-Based and Model-Free Approaches\" successfully.
+- 2020/03: Our paper on cooperative mapping and target search is featured in the [https://robotics.umd.edu/news/story/a-cooperative-control-algorithm-for-robotic-search-and-rescue MRC news].
+- 2020/01: Our paper on cooperative mapping and target search has been accepted by IEEE Robotics and Automation Letters.
+#- 2019/11: Our heterogeneous quadrotor platform at the Fearless Flight Facility is featured in this [https://www.youtube.com/watch?v=Eu-fdq9af4Q&feature=youtu.be video] and [https://view.publitas.com/maryland-robotics-center/umd_mrcnews_fall2019_final_oct28/page/8-9 MRC newsletter].
+#- 2019/08: I presented our work on data-driven estimation and control of nonlinear system using a Koopman spectral approach at Université Catholique de Louvain. The slides are [UCLouvain_Goswami.pdf here].
+#- 2019/08: Our paper on output feedback control for lift maximization of a pitching airfoil is accepted in the AIAA SciTech Forum 2020.
+~~
+
+== Research
+My research interests include 
+- Control and Estimation of Nonlinear Systems 
+- Transfer Operator Based Approach to Dynamical Systems
+- Koopman Operator Theory
+- Data-Driven Algorithms for Control of Complex Systems
+
+#[research.html Find out more].
+=== Doctoral Dissertation
+. *D. Goswami*, "Estimation and control of nonlinear systems: model-based and model-free approaches", Dissertation submitted to the Faculty of the Graduate School of the University of Maryland, College Park. \[[mainthesis.pdf link]\]
+=== Book Chapter
+. *D. Goswami* and D. A. Paley, "Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", /The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications/, Springer International Publishing, 2020. \[[https://link.springer.com/chapter/10.1007/978-3-030-3571 link]\]
+=== Recent Journal Publications 
+. *D. Goswami* and D. A. Paley, "Global bilinearization, reachability, and optimal control of control-affine nonlinear systems: A Koopman Spectral Approach", conditionally accepted for publication in /IEEE Transactions on Automatic Control/.
+. J. Lidard, *D. Goswami*, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, "Feedback Control and Parameter Estimation for Lift Maximization of a Pitching Airfoil", /AIAA Journal of Guidance, Control, and Dynamics/, January 2021 (early access). \[[https://arc.aiaa.org/doi/10.2514/1.G005441 link]\]
+. *D. Goswami* and D. A. Paley, "Non-Gaussian estimation and output feedback using the Gaussian Mixture Kalman Filter", /AIAA Journal of Guidance, Control, and Dynamics/, vol. 44, no. 1, pp. 15-24, January, 2021. \[[https://arc.aiaa.org/doi/abs/10.2514/1.G005005 link]\]
+. A. Wolek, S. Cheng, *D. Goswami*, and D. A. Paley, "Cooperative mapping and target search over an unknown occupancy graph using mutual information", /IEEE Robotics and Automation Letters/, vol. 5, issue. 2, pp. 1071–1078, January 2020. \[[https://ieeexplore.ieee.org/abstract/document/8957494 link]\]
+. *D. Goswami* , Emma Thackray, and D. A. Paley, "Constrained Ulam Dynamic Mode Decomposition: Approximation of the Perron-Frobenius Operator for Deterministic and Stochastic Systems", /IEEE Control Systems Letters/, vol. 2, pp. 809-814, October 2018. \[[https://ieeexplore.ieee.org/document/8392395 link]\]
+=== Recent Conference Publications
+. *D. Goswami*, A. Wolek, and D. A. Paley, "Data-driven estimation using an Echo-State Neural Network equipped with an Ensemble Kalman Filter", accepted for presentation in /2021 American Control Conference/.
+. J. Lidard, *D. Goswami*, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, "Output feedback control for lift maximization of a pitching airfoil", /AIAA Scitech Forum/, pp. 1-13, Orlando, Florida, January 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/6.2020-1836 link]\]
+. *D. Goswami* and D. A. Paley, "Global bilinearization and controllability of control-affine nonlinear systems: A Koopman spectral approach", /IEEE Conference on Decision and Control/, pp. 6107-6112, Melbourne, Australia, December 2017. \[[https://ieeexplore.ieee.org/document/8264582 link]\]
+. *D. Goswami* and D. A. Paley, "Non-Gaussian estimation and observer-based feedback using the Gaussian Mixture Kalman and Extended Kalman Filters", /American Control Conference/, pp. 4550–4555, Seattle, Washington, May 2017. \[[https://ieeexplore.ieee.org/document/7963657 link]\]
+
+=== Current Projects
+- *Control with learning on the fly*\n
+*Project description:* The objective of this project is to develop optimal control strategies for systems with unknown parameters while minimizing the "regret" that is incurred for the ignorance about the parameters. The deep learning methods are not feasible due to the lack of enough data, and the regret minimization must be carried out "on the fly", i.e., while controlling the system. This project is a joint work between the groups of [http://cwrowley.princeton.edu Prof. Clancy Rowly] and [https://www.math.princeton.edu/people/charles-fefferman Prof. Charles Fefferman].
+
+
+=== Past Projects
+- *Analysis and prediction of micromobility trends in the urban transport landscape* \n
+*Project description:* This projects aims to analyze the trend of some emerging forms micromobility, e.g., electric scooters and bikes, and to predict its usage so that they can be deployed in a safer and more effective way. We plan to use the tools of machine learning and Markovian operator schemes to analyze and predict the different modes of mobility. A model based on the social force interaction is also used for Lagrangian analysis of the scooter/bike trajectories. The objective is to apply these results in order to aid an effective policymaking for the new urban mobility landscape.
+
+- *Data-driven sparse estimation of complex systems: An Echo-State Network approach* \n
+*Project description:* This project considers the problem of data-driven estimation with sparse measurements for a complex nonlinear system. While there are rich literature of model-based nonlinear estimation methods, estimating the state from a partial observation with an unmodeled dynamics is still not widely investigated. Here we propose an echo-state network (ESN) based method of model-free estimation where a reasonable accurate set of training data is available for the training period, and then, sparse measurement can only be obtained during the testing phase. The objective is to apply the technique to predict the traffic congestion in different intersections of a road network from sparsely located traffic sensors.
+
+- *Lift maximization of a pitching airfoil* \n
+*Project description:* This project implements the Goman-Khrabrov model for flow stagnation near an actuated airfoil with a feedback-controlled pitch rate for the purpose of maximizing the time-averaged unsteady lift. A nonlinear state-feedback control law is designed to stabilize unsteady pitching behavior. \n
+[real_time_output_feedback.avi video]
+
+- *Data-driven control of nonlinear system using Koopman specrtral approach* \n
+*Project destcription:* In this project, we propose a data-driven approach to bilinearize a control-affine nonlinear system using Koopman spectrum and design an optimal control using Pontryagin's Principle.\n
+[UCLouvain_Goswami.pdf slides]
+
+- *Cooperative mapping and target search using mutual information* \n
+*Project description:* This research is on cooperative mapping and search for detecting a single moving target in an urban environment that is initially unknown to a team of autonomous quadrotors equipped with noisy sensors with a limited field of view. \n [WolekEtAl_QuadrotorMapSearch.mp4 video]
+
+- *Gaussian Mixture Model Kalman Filter for nonlinear filtering and output feedback control* \n
+*Project description:* This project considers the problem of non-Gaussian estimation and output feedback in both linear and nonlinear settings. Estimation with non-Gaussian process noise, important in fields such as environmental sampling, is typically problem specific and suboptimal. We use the Gaussian Mixture Model (GMM) to approximate an unknown non-Gaussian distribution and to employ the Kalman filter and its nonlinear variants: the extended and unscented Kalman filters.
+
+#[publications.html Full list of publications].
+
+[CV_Goswami.pdf A brief cv].
+
+== Teaching and Mentoring
+- ENAE 743:	Apllied nonlinear control for aerospace systems (Spring 2020), co-instructor, UMD
+- ENEE 620:	Random processes for communication and control (Fall 2017), graduate teaching fellow, UMD
+- TATD fellow: [https://www.ece.umd.edu/node/375 Workshops] in Fall 2018 and Spring 2019, UMD
+- ENEE 381:	Electromagnetic wave propagation (Fall 2015, Spring 2016), teaching assistant, UMD
+
+== Service
+- Student service 
+   -- President, [http://gsa.ece.umd.edu Electrical and Computer Engineering Grduate Stdent Association] (ECEGSA), UMD, 2018-19
+   -- Graduate student member, UMD ECE department council, 2018-19
+- Reviewer
+   -- Journals: IEEE Transactions on Automatic Control, IEEE Control Systems Letters, IEEE Control Systems Magazine, IEEE Transactions on Control of Network Systems
+   -- Conferences: American Control Conference (2016-20), IEEE Conference on Decision and Control (2017-20), IFAC World Congress (2020)
+- Editorial
+   -- Editorial assistant to [https://www.journals.elsevier.com/automatica/editorial-board/a-tits Dr. André Tits] for Automatica Rapid Publications
+
+== Personal
+I am an FCC ceritified amateur radio (Ham) operator with extra class privilege. My call-sign is AC3EH. [https://www.qrz.com/db/AC3EH/ Here] is my QRZ homepage with my radio experiments and contacts listed. \n
+
+I like to do a little experiment with my cameras. [https://www.flickr.com/photos/goswamid/ Here] is my Flickr page.\n
+
+I have been bitten by the travel-bug from an early age. I have visited 20 nations till date and started a modest [http://www.ofharboursnhome.com travel-blog] last year. 
+
+
