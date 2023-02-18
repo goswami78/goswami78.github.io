@@ -7,13 +7,14 @@
 == Book Chapter
 - *D. Goswami* and D. A. Paley, "Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", /The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications/, Springer International Publishing, 2020. \[[https://link.springer.com/chapter/10.1007/978-3-030-35713-9_4 link]\]
 
-#== Preprints and in preparation
-#=== 2021
-#- D. Gurevich, *D. Goswami*, C. L. Fefferman, C. W. Rowley, "Optimal control with learning on the fly: System with unknown drift", submitted.
+== Preprints and in preparation
+=== 2022
+- *D. Goswami*, "Delay Embedded Echo-State Network: A Predictor for Partially Observed Systems", submitted.
 
 == Recent journal publications 
+=== 2022
+- *D. Goswami*, A. Riggins, and D. A. Paley, "Data-driven prediction of urban micromobility: A study of dockless electric scooters", /IEEE Control Systems Magazine/, vol. 42, no. 5, pp. 18-31, October 2022. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
 === 2021
-- *D. Goswami*, A. Riggins, and D. A. Paley, "Data-driven prediction of urban micromobility: A study of dockless electric scooters", accepted for publication in /IEEE Control Systems Magazine/.
 - *D. Goswami* and D. A. Paley, "Bilinearization, reachability, and optimal control of control-affine nonlinear systems: A Koopman Spectral Approach", /IEEE Transactions on Automatic Control/, vol. 67, no. 6, pp. 2715 - 2728, June 2022. \[[https://ieeexplore.ieee.org/abstract/document/9454367 link]\]
 - J. Lidard, *D. Goswami*, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, "Feedback Control and Parameter Estimation for Lift Maximization of a Pitching Airfoil", /AIAA Journal of Guidance, Control, and Dynamics/, vol. 44, no. 3, pp. 587-594, March, 2021. \[[https://arc.aiaa.org/doi/10.2514/1.G005441 link]\]
 - *D. Goswami* and D. A. Paley, "Non-Gaussian estimation and output feedback using the Gaussian Mixture Kalman Filter", /AIAA Journal of Guidance, Control, and Dynamics/, vol. 44, no. 1, pp. 15-24, January, 2021. \[[https://arc.aiaa.org/doi/abs/10.2514/1.G005005 link]\]
