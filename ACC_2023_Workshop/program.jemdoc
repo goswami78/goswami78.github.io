@@ -3,3 +3,10 @@
 
 The workshop includes 14 talks from invited speakers and panel discussions. 
 All times are listed in Pacific Daylight Time (EST), UTC -7:00.
+
+~~~
+{}{table}{Tentative Schedule}
+Time  | Title  | Speaker ||
+ 8:30-9:00  | Optimal Control with Learning on The Fly: System with Unknown Drift | Debdipta Goswami   ||
+ 9:00-9:30  |  Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance | Samuel E. Otto || 
+~~~
