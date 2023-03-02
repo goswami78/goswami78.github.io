@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{gupta.html}, nofooter
+==Learning in Infinite Dimensional Spaces
+
+=== Speaker
+
+Abhishek Gupta
+
+=== Affiliation
+
+The Ohio State University
+
+=== Abstract
+
+In many areas of learning, one is interested in learning a function in an infinite dimensional function space that is a fixed point of an operator. For example, in reinforcement learning, we are interested in computing the fixed point of a Bellman operator. Other example includes functional data analysis and risk-sensitive Markov decision processes (MDPs). In data-driven learning, such problems can be modeled as computation of an approximation of the fixed point of that operator using samples. In this presentation, we will talk about a general theoretical framework that builds upon the random operator theory to yield convergence guarantees for this class of problems. In particular, we view learning algorithm as a random operator acting on a Banach space that yields a Markov chain. We will derive various properties of such a Markov chain and its relationship to the fixed point of the operator.

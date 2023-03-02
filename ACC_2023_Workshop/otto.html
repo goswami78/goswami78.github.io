@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="program.html">Program</a></div>
+<div class="menu-item"><a href="contact.html">Contact</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance</h1>
+</div>
+<h3>Speaker</h3>
+<p>Samuel E. Otto
+</p>
+<h3>Affiliation</h3>
+<p>University of Washington
+</p>
+<h3>Abstract</h3>
+<p>Data-driven reduced-order models often fail to make accurate forecasts of high-dimensional nonlinear systems that are sensitive along coordinates with low-variance because such coordinates are often truncated, e.g., by proper orthogonal decomposition, kernel principal component analysis, and autoencoders.
+Such systems are encountered frequently in shear-dominated fluid flows where non-normality plays a significant role in the growth of disturbances.
+In order to address these issues, we employ ideas from active subspaces to find low-dimensional systems of coordinates for model reduction that balance adjoint-based information about the system's sensitivity with the variance of states along trajectories. The resulting method, which we refer to as covariance balancing reduction using adjoint snapshots (CoBRAS), is analogous to balanced truncation with state and adjoint-based gradient covariance matrices replacing the system Gramians and obeying the same key transformation laws. Here, the extracted coordinates are associated with an oblique projection that can be used to construct Petrov-Galerkin reduced-order models.
+We provide an efficient snapshot-based computational method analogous to balanced proper orthogonal decomposition.
+This also leads to the observation that the reduced coordinates can be computed relying on inner products of state and gradient samples alone, allowing
+us to find rich nonlinear coordinates by replacing the inner product with a kernel function.
+In these coordinates, reduced-order models can be learned using regression.
+We demonstrate these techniques and compare to a variety of other methods on a simple, yet challenging three-dimensional system and an axisymmetric jet flow simulation with \(10^5\) state variables.</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

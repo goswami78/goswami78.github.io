@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{cortes.html}, nofooter
+==Learning Koopman eigenfunctions and invariant subspaces from data
+
+=== Speaker
+
+Jorje Cortés
+
+=== Affiliation
+
+University of California, San Diego
+
+=== Abstract
+
+Koopman operator methods offer a physically-informed approach to unveil the underlying structure of dynamical systems from data and produce principled dynamic models describing the evolution of physical phenomena. The linearity of the operator along with its spectral properties, particularly its set of eigenfunctions and eigenvalues, and the tight connection with physical constraints and geometric structures provide a powerful tool for the prediction and control of complex systems.  Koopman-based approximations are able to extract low-complexity, finite-dimensional, physically-meaningful dynamical models from data via extended dynamic mode decomposition (EDMD).  The accuracy of the EDMD's approximation critically relies on the quality of the dictionary of observables, specifically, on whether the span of the dictionary is close to being invariant under the Koopman operator. In fact, for Koopman-invariant spaces, EDMD provides an exact description of the dynamics. This talk describes our efforts to provide formal measures to assess EDMD’s prediction accuracy and its dictionary's quality as well as to develop efficient computational techniques to identify approximate Koopman-invariant subspaces and eigenfunctions with rigorous convergence and accuracy guarantees.

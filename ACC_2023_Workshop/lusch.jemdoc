@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{lusch.html}, nofooter
+==A Robust Deep-Learning Approach for Koopman-Based Control
+
+=== Speaker
+
+Bethany Lusch
+
+=== Affiliation
+
+Argonne National Lab
+
+=== Abstract
+
+Koopman operator theory is an attractive approach for turning a nonlinear control problem into a linear control problem, where the linear representation of the dynamics is broadly valid. There has been great progress in recent years on data-driven methods to learn the Koopman operator for dynamical systems. However, these methods are often demonstrated on simulated, noise-free data. We present our recent progress on developing a more robust approach to handle real-world systems. We then demonstrate controlling the resulting linear system. This is joint work with Madhur Tiwari (Florida Tech University). 
