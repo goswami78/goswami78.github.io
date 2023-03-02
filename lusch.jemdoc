@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{lusch.html}, nofooter
+==A Robust Deep-Learning Approach for Koopman-Based Control
+
+=== Speaker
+
+Bethany Lusch
+
+=== Affiliation
+
+Argonne National Lab
+
+=== Abstract
+
+Koopman operator theory is an attractive approach for turning a nonlinear control problem into a linear control problem, where the linear representation of the dynamics is broadly valid. There has been great progress in recent years on data-driven methods to learn the Koopman operator for dynamical systems. However, these methods are often demonstrated on simulated, noise-free data. We present our recent progress on developing a more robust approach to handle real-world systems. We then demonstrate controlling the resulting linear system. This is joint work with Madhur Tiwari (Florida Tech University). 
+
+=== Bio
+
+~~~
+{}{img_left}{photos/Bethany.jpeg}{alt text}{300}{300}{}
+Dr. Bethany Lusch is an Assistant Computer Scientist in the data science group at the Argonne Leadership Computing Facility at Argonne National Lab. Her research expertise includes developing methods and tools to integrate AI with science, especially for dynamical systems and PDE-based simulations. Her recent work includes developing machine-learning emulators to replace expensive parts of simulations, such as computational fluid dynamics simulations of engines and climate simulations. She is also working on methods that incorporate domain knowledge in machine learning, representation learning, and using machine learning to analyze supercomputer logs. She holds a PhD and MS in applied mathematics from the University of Washington and a BS in mathematics from the University of Notre Dame.
+~~~

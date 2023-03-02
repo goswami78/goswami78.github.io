@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+==Publications in Reverse Chronological Order
+
+== Doctoral dissertation
+- *D. Goswami*, "Estimation and control of nonlinear systems: model-based and model-free approaches", Dissertation submitted to the Faculty of the Graduate School of the University of Maryland, College Park. \[[mainthesis.pdf link]\], \[[DissertationSlides.pptx slides]\]
+
+== Book Chapter
+- *D. Goswami* and D. A. Paley, "Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", /The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications/, Springer International Publishing, 2020. \[[https://link.springer.com/chapter/10.1007/978-3-030-35713-9_4 link]\]
+
+== Preprints and in preparation
+=== 2022
+- *D. Goswami*, "Delay Embedded Echo-State Network: A Predictor for Partially Observed Systems", submitted.
+
+== Recent journal publications 
+=== 2022
+- *D. Goswami*, A. Riggins, and D. A. Paley, "Data-driven prediction of urban micromobility: A study of dockless electric scooters", /IEEE Control Systems Magazine/, vol. 42, no. 5, pp. 18-31, October 2022. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
+=== 2021
+- *D. Goswami* and D. A. Paley, "Bilinearization, reachability, and optimal control of control-affine nonlinear systems: A Koopman Spectral Approach", /IEEE Transactions on Automatic Control/, vol. 67, no. 6, pp. 2715 - 2728, June 2022. \[[https://ieeexplore.ieee.org/abstract/document/9454367 link]\]
+- J. Lidard, *D. Goswami*, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, "Feedback Control and Parameter Estimation for Lift Maximization of a Pitching Airfoil", /AIAA Journal of Guidance, Control, and Dynamics/, vol. 44, no. 3, pp. 587-594, March, 2021. \[[https://arc.aiaa.org/doi/10.2514/1.G005441 link]\]
+- *D. Goswami* and D. A. Paley, "Non-Gaussian estimation and output feedback using the Gaussian Mixture Kalman Filter", /AIAA Journal of Guidance, Control, and Dynamics/, vol. 44, no. 1, pp. 15-24, January, 2021. \[[https://arc.aiaa.org/doi/abs/10.2514/1.G005005 link]\]
+=== 2020
+- A. Wolek, S. Cheng, *D. Goswami*, and D. A. Paley, "Cooperative mapping and target search over an unknown occupancy graph using mutual information", /IEEE Robotics and Automation Letters/, vol. 5, issue. 2, pp. 1071–1078, January 2020. \[[https://ieeexplore.ieee.org/abstract/document/8957494 link]\]
+=== 2018
+- *D. Goswami* , Emma Thackray, and D. A. Paley, "Constrained Ulam Dynamic Mode Decomposition: Approximation of the Perron-Frobenius Operator for Deterministic and Stochastic Systems", /IEEE Control Systems Letters/, vol. 2, pp. 809-814, October 2018. \[[https://ieeexplore.ieee.org/document/8392395 link]\]
+
+== Recent conference publications
+=== 2022
+- D. Gurevich, *D. Goswami*, C. L. Fefferman, C. W. Rowley, "Optimal control with learning on the fly: System with unknown drift", /Proceedings of Machine Learning Research/, vol. 168, pp. 870-880, accepted for presentation in /4th Conference on Learning for Dynamics and Control, L4DC 2022/, Stanford University. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]
+=== 2021
+- *D. Goswami*, A. Wolek, and D. A. Paley, "Data-driven estimation using an Echo-State Neural Network equipped with an Ensemble Kalman Filter", /American Control Conference/, pp. 2543–2548, New Orleans, Louisiana, May 2021. \[[http://cdcl.umd.edu/papers/acc21a.pdf link]\]
+=== 2020
+- J. Lidard, *D. Goswami*, D. Snyder, G. Sedky, A. Jones, and D. A. Paley, "Output feedback control for lift maximization of a pitching airfoil", /AIAA Scitech Forum/, pp. 1-13, Orlando, Florida, January 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/6.2020-1836 link]\]
+=== 2017
+- *D. Goswami* and D. A. Paley, "Global bilinearization and controllability of control-affine nonlinear systems: A Koopman spectral approach", /IEEE Conference on Decision and Control/, pp. 6107-6112, Melbourne, Australia, December 2017. \[[https://ieeexplore.ieee.org/document/8264582 link]\]
+- *D. Goswami* and D. A. Paley, "Non-Gaussian estimation and observer-based feedback using the Gaussian Mixture Kalman and Extended Kalman Filters", /American Control Conference/, pp. 4550–4555, Seattle, Washington, May 2017. \[[https://ieeexplore.ieee.org/document/7963657 link]\]
