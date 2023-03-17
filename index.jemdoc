@@ -18,7 +18,8 @@ Thank you for visiting my site. I am an assistant professor in the Department of
 I am looking for PhD students in the area of control, dynamical systems, machine learning, and aerial robotics. Please consider sending me an email with your CV if interested.
 == Recent news
 ~~
-- 2023/01 We are going to organize a [ACC_2023_Workshop/index.html workshop] on data-driven methods in system and control in American Control  Conference, 2023.
+- 2023/03 Our [https://arxiv.org/abs/2211.05992 paper] on training echo-state networks from partial observations is accepted in IFAC World Congress 2023. See you at Yokohama!
+- 2023/01 We are going to organize a [ACC_2023_Workshop/index.html workshop] on data-driven methods in system and control in American Control  Conference, 2023. See you at San Diego!
 - 2022/10 Our article on data-driven study of urban micromobility is now published in the IEEE Control Systems Magazine. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
 - 2022/06 I will join The Ohio State University at the Department of Mecanical and Aerospace Engineering as an assistant professor from Fall 2022.
 - 2022/03 Our article on optimal control while learning on the fly got accepted in L4DC 2022. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]

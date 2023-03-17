@@ -8,8 +8,8 @@
 - *D. Goswami* and D. A. Paley, "Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", /The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications/, Springer International Publishing, 2020. \[[https://link.springer.com/chapter/10.1007/978-3-030-35713-9_4 link]\]
 
 == Preprints and in preparation
-=== 2022
-- *D. Goswami*, "Delay Embedded Echo-State Network: A Predictor for Partially Observed Systems", submitted.
+=== 2023
+- *D. Goswami*, "Training Echo-State Network from noisy data: A Kalman filter approach", in preparation.
 
 == Recent journal publications 
 === 2022
@@ -24,6 +24,8 @@
 - *D. Goswami* , Emma Thackray, and D. A. Paley, "Constrained Ulam Dynamic Mode Decomposition: Approximation of the Perron-Frobenius Operator for Deterministic and Stochastic Systems", /IEEE Control Systems Letters/, vol. 2, pp. 809-814, October 2018. \[[https://ieeexplore.ieee.org/document/8392395 link]\]
 
 == Recent conference publications
+=== 2023
+- *D. Goswami*, "Delay embedded Echo-State Network: A predictor for partially observed systems", accepted for presentation at IFAC World Congress 2023.
 === 2022
 - D. Gurevich, *D. Goswami*, C. L. Fefferman, C. W. Rowley, "Optimal control with learning on the fly: System with unknown drift", /Proceedings of Machine Learning Research/, vol. 168, pp. 870-880, accepted for presentation in /4th Conference on Learning for Dynamics and Control, L4DC 2022/, Stanford University. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]
 === 2021

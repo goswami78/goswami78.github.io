@@ -22,3 +22,7 @@ of the entire time history of the state. However, as mentioned earlier, in order
 expedite high-fidelity time-domain simulations using predictive ROMs, it is necessary to
 identify the transition from transient to equilibrium in online fashion, i.e. concomitantly with the ongoing simulation. Only then we can terminate the high-fidelity simulation
 just in time, ensuring "rich" enough data for training purpose.
+
+=== Bio
+
+Coming soon!
