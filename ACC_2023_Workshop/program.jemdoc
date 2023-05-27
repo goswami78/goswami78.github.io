@@ -3,7 +3,7 @@
 
 == Location
 
-TBD
+Sapphire 410B, Hilton San Diego Bayfront Hotel
 
 == Tentative Schedule
 
@@ -28,6 +28,7 @@ Time  | Title  | Speaker | Affiliation ||
  1:30pm-2:00pm  | [cortes.html Learning Koopman Eigenfunctions and Invariant Subspaces from Data] | Jorge Cortés | University of California, San Diego ||
  2:00pm-2:30pm  | [otto.html Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance\*] | Samuel E. Otto | University of Washington ||
  2:30pm-3:00pm  | [sznaier.html Certified Data Driven Control] | Mario Sznaier | Northeastern University  ||
+ 3:00pm-3:30pm | *Coffee Break* ||
  *Session 4* | *Application of Data-Driven Methods in Physical Systems* ||
  3:30pm-4:00pm  | [nayak.html Online Identification of State Transition from Transient to Equilibrium Using Sliding-Window Dynamic Mode Decomposition] | Indranil Nayak | The Ohio State University ||
  4:00pm-4:30pm  | [mustavee.html Modeling Traffic Systems Using Data-Driven Dynamical Systems Perspective] | Shakib Mustavee and Shaurya Agarwal | University of Central Florida ||
