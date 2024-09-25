@@ -2,7 +2,7 @@
 ==ICRA 2025 Workshop: Autonomy Under Duress -- Robots in Wildland Fire
 
 ~~~
-#{}{img_left}{Industrie4_0.png}{alt text}{330}{300}
+{}{img_left}{drone-burn.png}{Drone monitoring a forest burn}{460}{400}
 == Abstract
 This workshop will showcase the cutting edge of research and practice in autonomous robotics for the management and control of wildland fire. Wildland fire management presents daunting challenges due to unstructured uncertainty, scale, and complex multiscale nonlinear interactions between the process and its environment. This workshop will bring together researchers and practitioners working to advance the integration of heterogeneous autonomous robots across all stages of wildland fire management through multidisciplinary work in guidance, navigation, control, sensing, computer vision, communications, novel design, security, high fidelity computation, operations, policy, and beyond. While deliberations will center on wildland fire resiliency, the scope of this forum will extend to broader questions concerning robotics and health of the wildland fire ecosystem and climate science. The following list provides broad areas of interest for technical content to be presented in the proposed workshop:
 
@@ -23,25 +23,40 @@ This workshop will showcase the cutting edge of research and practice in autonom
 
 == Organizers
 
+~~~
+{}{img_left}{photos/kumar.jpg}{alt text}{112}{150}{}
 [https://mae.osu.edu/people/kumar.672 *Mrinal Kumar*]\n
 Professor \n [https://mae.osu.edu/ Department of Mechanical and Aerospace Engineering] \n[https://osu.edu/ The Ohio State University]\n
 E-mail: /kumar.672/ \[@\] osu \[DOT\] edu
+~~~
 
+~~~
+{}{img_left}{photos/xi.jpg}{alt text}{112}{150}{}
 [https://search.asu.edu/profile/5170321 *Xi Yu*]\n
 Assistant Professor \n [https://msn.engineering.asu.edu/ School of Manufacturing Systems & Networks] \n[https://asu.edu/ Arizona State University]\n
 E-mail: /xyu/ \[@\] asu \[DOT\] edu
+~~~
 
+~~~
+{}{img_left}{photos/dgoswami.jpg}{alt text}{112}{150}{}
 [https://mae.osu.edu/people/goswami.78 *Debdipta Goswami*]\n
 Assistant Professor \n [https://mae.osu.edu/ Department of Mechanical and Aerospace Engineering] \n[https://osu.edu/ The Ohio State University]\n
 E-mail: /goswami.78/ \[@\] osu \[DOT\] edu
+~~~
 
+~~~
+{}{img_left}{photos/sanyal.jpg}{alt text}{112}{150}{}
 [https://https://ecs.syracuse.edu/faculty-staff/amit-k-sanyal *Amit Sanyal*]\n
-Assistant Professor \n [https://ecs.syracuse.edu/academics/mechanical-and-aerospace-engineering Department of Mechanical and Aerospace Engineering] \n[https://syr.edu/ Syracuse University]\n
+Professor \n [https://ecs.syracuse.edu/academics/mechanical-and-aerospace-engineering Department of Mechanical and Aerospace Engineering] \n[https://syr.edu/ Syracuse University]\n
 E-mail: /aksanyal/ \[@\] syr \[DOT\] edu
+~~~
 
+~~~
+{}{img_left}{photos/roger.jpg}{alt text}{112}{150}{}
 [https://senr.osu.edu/our-people/roger-williams *Roger Williams*]\n
 Associate Professor \n [https://senr.osu.edu/ School of Environment and Natural Resources] \n[https://osu.edu/ The Ohio State University]\n
 E-mail: /goswami.78/ \[@\] osu \[DOT\] edu
+~~~
 
 
 
