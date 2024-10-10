@@ -5,7 +5,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Research Projects</title>
+<title>Research Facilities and Projects</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -13,7 +13,7 @@
 <td id="layout-menu">
 <div class="menu-category">SOAR Lab</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
-<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="research.html" class="current">Projects</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 <div class="menu-item"><a href="members.html">Members</a></div>
 <div class="menu-category">Principal Investigator</div>
@@ -21,26 +21,90 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Research Projects</h1>
+<h1>Research Facilities and Projects</h1>
 </div>
+<h2>Facilities</h2>
+<h3>Aerospace Research Center</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/ARC.jpg" alt="alt text" width="400px" height="220px" />&nbsp;</td>
+<td align="left"><p>The Aerospace Research Center advances aerospace research at The Ohio State University by leading interdisciplinary research focused on aerospace technology. It is located near the OSU airport and has several facilities including:
+</p>
+<ul>
+<li><p>Battelle Subsonic Wind Tunnel: an Eiffel-type wind tunnel with a 0.91 × 1.52m (3 × 5 ft) test section.
+</p>
+</li>
+<li><p>High Subsonic Wind Tunnel: a recirculating wind tunnel with an optically-accessible 61 x 61 x 122 cm (2 x 2 x 4 ft) test section.
+</p>
+</li>
+<li><p>Peregrine high-endurance research vehicle: high-endurance fixed wing UAV for thermal utilization.
+</p>
+</li>
+<li><p>A hangar space for flying fixed-wing micro-UAV.
+</p>
+</li>
+</ul>
+</td></tr></table>
+<h3>SOAR Lab space</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/FlyArena.png" alt="alt text" width="400px" height="220px" />&nbsp;</td>
+<td align="left"><p>The SOAR Lab located at W078 Scott Laboratory has the following facilities:
+</p>
+<ul>
+<li><p>Indoor flight arena (18 x 18 x 14 ft) with foam-padding for flying multiple small to medium UAVs.
+</p>
+</li>
+<li><p>Vicon Vero motion-capture system with 10 infrared motion-capture cameras and a capture volume of 18 x 17 x 10 ft.
+</p>
+</li>
+<li><p>14 Crazyflie 2.0 micro-UAVs with infrared markers, data-acquisition deck, control radios, and expandable sensor capability.
+</p>
+</li>
+<li><p>ModalAI PX4 autonomy developer kit based on VOXL 2 Starling quadrotor drone with vision, flow, and pressure sensors.
+</p>
+</li>
+<li><p>Bladeless Dyson fans and Arduino controlled mechanical blinds to create artificial windfield.
+</p>
+</li>
+</ul>
+</td></tr></table>
 <h2>Current projects</h2>
+<h3>Reinforcement learning-based path planning for quadrotors</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/CooperativeSearch.gif" alt="alt text" width="400px" height="220px" />&nbsp;</td>
+<td align="left"><p><b>Project description:</b> The objective of this project is to combine reinforcement learning with traditional motion planning that enables a fleet of multirotor drones to autonomously navigate and complete missions. Preliminary results show that a Markov decision based planning with a reward on mutual information between environment and task provides a superior performance to both greedy and random path planning. <br /> [<a href="WolekEtAl_QuadrotorMapSearch.mp4" target=&ldquo;blank&rdquo;>video</a>]
+</p>
+</td></tr></table>
+<h3>Linear Model-Predictive Control for Quadrotors with Koopman Approach</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/KoopmanLMPC.png" alt="alt text" width="400px" height="220px" />&nbsp;</td>
+<td align="left"><p><b>Project description:</b> Efficient trajectory tracking controllers for quadrotors are essential for performing high-speed maneuvers in complex environments. Due to the inherent nonlinearity in quadrotor dynamics, the most promising approach is nonlinear model-predictive control (NMPC). But NMPC is computation-
+ally intensive, especially for low-end micro unmanned aerial vehicles (micro-UAVs). We strive to design a Koopman-based linear MPC that will reduce the computation and perform agile tracking smoothly.
+</p>
+</td></tr></table>
+<h3>Dynamical systems prediction with Echo-state networks</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/ESNEnKF.png" alt="alt text" width="400px" height="270px" />&nbsp;</td>
+<td align="left"><p><b>Project description:</b> This project considers the problem of data-driven estimation with sparse measurements for a complex nonlinear system. While there are rich literature of model-based nonlinear estimation methods, estimating the state from a partial observation with an unmodeled dynamics is still not widely investigated. Here we propose an echo-state network (ESN) based method of model-free estimation where a reasonable accurate set of training data is available for the training period, and then, sparse measurement can only be obtained during the testing phase. The objective is to apply the technique to predict the traffic congestion in different intersections of a road network from sparsely located traffic sensors. <br /> [<a href="Presentation.mp4" target=&ldquo;blank&rdquo;>Presentation</a>]
+</p>
+</td></tr></table>
+<h3>Data-driven control of nonlinear system using Koopman specrtral approach</h3>
+<table class="imgtable"><tr><td>
+<img src="photos/KBF.png" alt="alt text" width="400px" height="250px" />&nbsp;</td>
+<td align="left"><p><b>Project destcription:</b> This project aims to develop data-driven control technoques for control-affine nonlinear systems using Koopman spectral approach. Dr. Goswami discovered the bilinear spectral structure of control-affine actuated system during his PhD research and named it Koopman bilinear form (KBF). Our team wants to identify the KBF for various actuated systems, e.g., fluid flow or kinetic plasma, using Koopman autoencoder method. Koopman autoencoders are a special type of physics-constrained recurrent neural networks that preserve the Koopman recurrent structure in its linear or bilinear form. <br />
+[<a href="UCLouvain_Goswami.pdf" target=&ldquo;blank&rdquo;>slides</a>]
+</p>
+</td></tr></table>
+<h2>Past projects</h2>
 <h3>Control with learning on the fly</h3>
 <table class="imgtable"><tr><td>
 <img src="photos/OnTheFly.png" alt="alt text" width="400px" height="200px" />&nbsp;</td>
 <td align="left"><p><b>Project description:</b> The objective of this project is to develop optimal control strategies for systems with unknown parameters while minimizing the &ldquo;regret&rdquo; that is incurred for the ignorance about the parameters. The deep learning methods are not feasible due to the lack of enough data, and the regret minimization must be carried out &ldquo;on the fly&rdquo;, i.e., while controlling the system. This project is a joint work between the groups of <a href="http://cwrowley.princeton.edu" target=&ldquo;blank&rdquo;>Prof. Clancy Rowly</a> and <a href="https://www.math.princeton.edu/people/charles-fefferman" target=&ldquo;blank&rdquo;>Prof. Charles Fefferman</a>.
 </p>
 </td></tr></table>
-<h2>Past projects</h2>
 <h3>Analysis and prediction of micromobility trends in the urban transport landscape</h3>
 <table class="imgtable"><tr><td>
 <img src="photos/UrbanMicromobility.png" alt="alt text" width="400px" height="250px" />&nbsp;</td>
 <td align="left"><p><b>Project description:</b> This projects aims to analyze the trend of some emerging forms micromobility, e.g., electric scooters and bikes, and to predict its usage so that they can be deployed in a safer and more effective way. We plan to use the tools of machine learning and Markovian operator schemes to analyze and predict the different modes of mobility. A model based on the social force interaction is also used for Lagrangian analysis of the scooter/bike trajectories. The objective is to apply these results in order to aid an effective policymaking for the new urban mobility landscape.
-</p>
-</td></tr></table>
-<h3>Data-driven sparse estimation of complex systems: An Echo-State Network approach</h3>
-<table class="imgtable"><tr><td>
-<img src="photos/ESNEnKF.png" alt="alt text" width="400px" height="270px" />&nbsp;</td>
-<td align="left"><p><b>Project description:</b> This project considers the problem of data-driven estimation with sparse measurements for a complex nonlinear system. While there are rich literature of model-based nonlinear estimation methods, estimating the state from a partial observation with an unmodeled dynamics is still not widely investigated. Here we propose an echo-state network (ESN) based method of model-free estimation where a reasonable accurate set of training data is available for the training period, and then, sparse measurement can only be obtained during the testing phase. The objective is to apply the technique to predict the traffic congestion in different intersections of a road network from sparsely located traffic sensors. [<a href="Presentation.mp4" target=&ldquo;blank&rdquo;>Presentation</a>]
 </p>
 </td></tr></table>
 <h3>Lift maximization of a pitching airfoil</h3>
@@ -48,19 +112,6 @@
 <img src="photos/AirFoil.gif" alt="alt text" width="400px" height="220px" />&nbsp;</td>
 <td align="left"><p><b>Project description:</b> This project implements the Goman-Khrabrov model for flow stagnation near an actuated airfoil with a feedback-controlled pitch rate for the purpose of maximizing the time-averaged unsteady lift. A nonlinear state-feedback control law is designed to stabilize unsteady pitching behavior. <br />
 [<a href="real_time_output_feedback.avi" target=&ldquo;blank&rdquo;>video</a>]
-</p>
-</td></tr></table>
-<h3>Data-driven control of nonlinear system using Koopman specrtral approach</h3>
-<table class="imgtable"><tr><td>
-<img src="photos/KBF.png" alt="alt text" width="400px" height="250px" />&nbsp;</td>
-<td align="left"><p><b>Project destcription:</b> In this project, we propose a data-driven approach to bilinearize a control-affine nonlinear system using Koopman spectrum and design an optimal control using Pontryagin's Principle.<br />
-[<a href="UCLouvain_Goswami.pdf" target=&ldquo;blank&rdquo;>slides</a>]
-</p>
-</td></tr></table>
-<h3>Cooperative mapping and target search using mutual information</h3>
-<table class="imgtable"><tr><td>
-<img src="photos/CooperativeSearch.gif" alt="alt text" width="400px" height="220px" />&nbsp;</td>
-<td align="left"><p><b>Project description:</b> This research is on cooperative mapping and search for detecting a single moving target in an urban environment that is initially unknown to a team of autonomous quadrotors equipped with noisy sensors with a limited field of view. <br /> <a href="WolekEtAl_QuadrotorMapSearch.mp4" target=&ldquo;blank&rdquo;>video</a>
 </p>
 </td></tr></table>
 <h3>Gaussian Mixture Model Kalman Filter for nonlinear filtering and output feedback control</h3>
