@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==ACC 2025 Workshop: Collaborative Connections -- Advances in Communication-Aware Learning,
+Planning, Control, and Games
+
+~~~
+{}{img_left}{CommAwareLearningControl.png}{Communication aware learning and control}{460}{400}
+== Abstract
+The proposed workshop will showcase cutting edge of research on the effect of communication constraints on learning, control, and estimation in dynamical systems. Corruption and omission of data due to communication constraint, disruption, and delay, presents a daunting challenge for real-time learning and control of complex systems due to its uncertainty, environmental dependence, and hardware limitation. This workshop aims to offer a survey of emerging techniques and research problems related to communication-aware decision-making, spanning topics from networked multi-agent control and games to data-driven dynamics learning and coordinated decision-making for autonomous robots.  Emphasis will be placed on both recent theoretical developments in communication-constraints on structured learning of dynamical systems and emerging applications ranging from aerial and underwater robotics, networked-control systems, and differential games. Several open problems and opportunities for further fruitful collaborative efforts in this growing field---at the intersection of systems and control theory, data science, communication, and machine learning---will be articulated and discussed. The following list provides broad areas of interest for technical content to be presented in the proposed workshop:
+
+- Networked control systems
+- Communication aware control and mission planning
+- Learning with communication constraints
+- Information structure in dynamic games
+
+~~~
+
+== Organizers
+
+~~~
+{}{img_left}{photos/dmaity.jpg}{alt text}{112}{168}{}
+[https://ece.charlotte.edu/directory/dr-dipankar-maity-phd/ *Dipankar Maity*]\n
+Assistant Professor \n [https://ece.charlotte.edu/ Department of Electrical and Computer Engineering] \n[https://charlotte.edu/ University of North Carolina at Charlotte]\n
+E-mail: /dmaity/ \[@\] charlotte \[DOT\] edu
+~~~
+
+~~~
+{}{img_left}{photos/dgoswami.jpg}{alt text}{112}{150}{}
+[https://mae.osu.edu/people/goswami.78 *Debdipta Goswami*]\n
+Assistant Professor \n [https://mae.osu.edu/ Department of Mechanical and Aerospace Engineering] \n[https://osu.edu/ The Ohio State University]\n
+E-mail: /goswami.78/ \[@\] osu \[DOT\] edu
+~~~
+
+
+
+
+
