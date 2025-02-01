@@ -1,10 +1,143 @@
 # jemdoc: menu{MENU}{program.html}, nofooter, addcss{table}
-=Workshop Program
+= Workshop Program
 
-== Location
 
-Coming soon.
+== Keynote Speaker: Karl H. Johansson
 
-== Tentative Schedule
+=== Co-design of Data-driven Wireless Networked Control Systems
 
-Coming soon.
+=== Abstract
+
+The efficiency of control systems that operate over shared communication networks closely
+relates to the network’s ability to deliver services and allocate resources. Cellular network technologies,
+such as 5G and 6G, offer customized services for diverse network needs. Given the strict real-time control
+requirements and safety specifications of many emerging applications, there is a demand for adaptable,
+control-aware network services. This insight points towards a combined design of both physical and network
+layers with the control laws, to guarantee that the required quality-of-service matches the intended quality-
+of-control. However, achieving an optimal combined design is tricky due to the interdependencies between
+layers, where the design necessarily hinges also on the amount of shared information in the system. In
+this talk, we will discuss how to formulate and solve such co-design problems. We will illustrate the
+results through examples from vehicular and traffic control, showing how data-driven learning and control
+can be integrated in a systematic way for future intelligent transport systems based on connected and
+automated vehicles. The presented results have been developed together with students, postdocs and
+industrial collaborators.
+
+=== Bio
+~~~
+{}{img_left}{photos/Karl.jpg}{alt text}{200}{300}{}
+Karl H. Johansson is Swedish Research Council Distinguished Professor in Electrical Engineering and Computer Science at KTH Royal Institute of Technology in Sweden and Founding Director of Digital Futures. He earned his MSc degree in Electrical Engineering and PhD in Automatic Control from Lund University. He has held visiting positions at UC Berkeley, Caltech, NTU and other prestigious institutions. His research interests focus on networked control systems and cyber-physical systems with applications in transportation, energy, and automation networks. For his scientific contributions, he has received numerous best paper awards and various distinctions from IEEE, IFAC, and other organizations. He has been awarded Distinguished Professor by the Swedish Research Council, Wallenberg Scholar by the Knut and Alice Wallenberg Foundation, Future Research Leader by the Swedish Foundation for Strategic Research. He has also received the triennial IFAC Young Author Prize and IEEE CSS Distinguished Lecturer. He was the recipient of the 2024 IEEE CSS Hendrik W. Bode Lecture Prize. His extensive service to the academic community includes being President of the European Control Association, IEEE CSS Vice President Diversity, Outreach & Development Activities, and Members of IEEE CSS Board of Governors and IFAC Council. He has served on the editorial boards of Automatica, IEEE TAC, IEEE TCNS and many other journals. He has also been a member of the Swedish Scientific Council for Natural Sciences and Engineering Sciences. He is Fellow of both the IEEE and the Royal Swedish Academy of Engineering Sciences.
+~~~
+
+== Tamer Basar
+
+=== Intricacies of Information Structures in Stochastic Dynamic Games
+
+=== Abstract
+
+The talk will cover, in both continuous time and discrete time, the issue of certainty equiva-
+lence in two-player stochastic differential/dynamic games, first in the zero-sum framework and when the
+players have access to state information through a common noisy measurement channel. For the discrete-
+time case, the channel is also allowed to fail sporadically according to an independent Bernoulli process,
+leading to intermittent loss of measurements, where the players are allowed to observe past realizations
+of this process. It will be shown, first for a special class of parametrized games, that there would be
+saddle-point equilibria (SPE) of both certainty-equivalent (CE) and non-CE types, and for the latter the
+SPE involves mixed strategies by the maximizer. The insight provided by the analysis of this class of
+games will be used to obtain through an indirect approach SPE for three classes of stochastic differen-
+tial/dynamic games: (i) linear-quadratic-Gaussian (LQG) zero- sum differential games with common noisy
+measurements, (ii) discrete-time LQG zero-sum dynamic games with common noisy measurements, and
+(iii) discrete-time LQG zero-sum dynamic games with intermittently missing perfect state measurements.
+In all cases CE is a generalized notion, requiring two separate filters for the players, even though they
+have a common communication channel. Discussions on extensions to other classes of stochastic games,
+including nonzero-sum stochastic dynamic games, and on the challenges that lie ahead will conclude the
+talk.
+
+=== Bio
+~~~
+{}{img_left}{photos/Basar.jpeg}{alt text}{200}{300}{}
+Tamer Basar has been with the University of Illinois Urbana-Champaign since 1981, where he is currently Swanlund Endowed Chair Emeritus and Center for Advanced Study (CAS) Professor Emeritus of Electrical and Computer Engineering, with also affiliations with the Coordinated Science Laboratory, Information Trust Institute, and Mechanical Science and Engineering. At Illinois, he has also served as Director of CAS (2014-2020), Interim Dean of Engineering (2018), and Interim Director of the Beckman Institute (2008-2010). He received B.S.E.E. from Robert College, Istanbul, and M.S., M.Phil., and Ph.D. from Yale University, from which he received in 2021 the Wilbur Cross Medal. He is a member of the US National Academy of Engineering and a Fellow of the American Academy of Arts and Sciences, as well as Fellow of IEEE, IFAC, and SIAM. He has served as president of IEEE CSS (Control Systems Society), ISDG (International Society of Dynamic Games), and AACC (American Automatic Control Council). He has received several awards and recognitions over the years, including the highest awards of IEEE CSS, IFAC, AACC, and ISDG, the IEEE Control Systems Award, and a number of international honorary doctorates and professorships. He has over 1000 publications in systems, control, communications, optimization, networks, and dynamic games, including books on non-cooperative dynamic game theory, robust control, network security, wireless and communication networks, and stochastic networked control. He was the Editor-in-Chief of Automatica between 2004 and 2014, and is currently editor of several book series. His current research interests include stochastic teams, games, and networks; risk-sensitive estimation and control; mean-field game theory; multi-agent systems and learning; data-driven distributed optimization; epidemics modeling and control over networks; strategic information transmission, spread of disinformation, and deception; security and trust; energy systems; and cyber-physical systems.
+~~~
+
+== Xi Yu
+
+=== Multi-Robot Systems under Uncertainty: Balancing Communication Constraints and Task Satisfaction
+
+=== Abstract
+
+Today's grand challenges, such as exploring ocean depths, navigating remote wilderness areas, and venturing into outer space, require the application of autonomous technologies in inaccessible and extreme environments. These conditions significantly impact the sensing, communication, and decision-making capabilities of robots. Multi-robot systems present promising solutions as both de-risking strategies with additional spatial-temporal capabilities in data collection and complex tasks delivery. Effective communication is essential for coordinating multiple robots. Much of the progress to date has assumed universally available and reliable communication, which is often untrue, particularly in high-uncertainty environments. As a result, robots face difficulties in regaining or enhancing communication while simultaneously completing their tasks. This talk explores resilient strategies for multi-robot systems that balance and integrate communication persistence with task planning. It highlights how robots use local decision-making to maintain intermittent connectivity while addressing complex tasks, as well as incorporating user preferences for efficient, near-optimal trajectory generation.
+
+=== Bio
+~~~
+{}{img_left}{photos/xi.jpg}{alt text}{200}{265}{}
+Xi Yu is an assistant professor in the School of Manufacturing Systems and Networks at Arizona State University. She received a B.S. and a Dipl.-Ing. in mechanical engineering from Karlsruhe Institute of Technology (KIT) in Germany. In 2018, she received a Ph.D. in mechanical engineering from Boston University and joined the GRASP Lab at University of Pennsylvania as a postdoc associate. Prior to her appointment at ASU, she had been an assistant professor in Mechanical and Aerospace Engineering at West Virginia University since January 2021. Yu’s main research interests include exploring challenging environments (i.e. large-scale environments with intrinsic dynamics, uncertainties, or dangers) with teams of robots that are subject to restrictions in actuation, sensing, and communication capabilities, and to forward the understanding of the time-varying, stochastic networks synthesized by the robot teams. 
+~~~
+
+== John S. Baras
+
+=== Efficiency and performance of Multi-agent systems: foundations on the role of ML and AI
+
+=== Abstract
+
+Coming soon!
+
+=== Bio
+
+~~~
+{}{img_left}{photos/Baras.jpg}{alt text}{200}{295}{}
+John S. Baras received the Diploma in Electrical and Mechanical Engineering (with Highest Honors) from the National Technical University of Athens, Athens, Greece, in 1970, and the M.S. and Ph.D. degrees in Applied Mathematics from Harvard University, Cambridge, MA, USA, in 1971 and 1973, respectively. Since 1973, he has been with the Department of Electrical and Computer Engineering, University of Maryland at College Park, MD, USA, where he is currently a Distinguished University Professor. He is also a Faculty Member of the Applied Mathematics, Statistics and Scientific Computation Program, and Affiliate Professor in the Fischell Department of Bioengineering, the Department of Computer Science, the Department of Mechanical Engineering, the Department of Aerospace Engineering, and the Department of Decision, Operations and Information Technologies, Robert H. Smith School of Business. Since 2013, he has been a Visiting Senior Research Scientist at the School of Electrical Engineering and Computer Science of the Royal Institute of Technology (KTH), Sweden, and the Institute for Advanced Study of the Techical University of Munich (TUM), Germany. From 1985 to 1991, he was the Founding Director of the Institute for Systems Research (ISR) (one of the first six National Science Foundation Engineering Research Centers). In 1990 he was appointed to the endowed Lockheed Martin Chair in Systems Engineering. Since 1992, he has been the Director of the Maryland Center for Hybrid Networks (HYNET), which he co-founded. He is a IEEE Life Fellow, SIAM Fellow, AAAS Fellow, NAI Fellow, IFAC Fellow, AMS Fellow, AIAA Fellow, Member of the National Academy of Inventors (NAI) and a Foreign Member of the Royal Swedish Academy of Engineering Sciences (IVA). Major honors and awards include the 1980 George Axelby Award from the IEEE Control Systems Society, the 2006 Leonard Abraham Prize from the IEEE Communications Society, the 2014 Tage Erlander Guest Professorship from the Swedish Research Council, and a three year (2014-2017) Senior Hans Fischer Fellowship from the Institute for Advanced Study of the Technical University of Munich, Germany. In 2016 he was inducted in the University of Maryland A. J. Clark School of Engineering Innovation Hall of Fame. He was awarded the 2017 Institute for Electrical and Electronics Engineers (IEEE) Simon Ramo Medal, the 2017 American Automatic Control Council (AACC) Richard E. Bellman Control Heritage Award, and the 2018 American Institute for Aeronautics and Astronautics Aerospace Communications Award. In June 2018 he was awarded a Doctorate Honoris Causa by his alma mater the National Technical University of Athens, Greece.
+~~~
+
+== Takashi Tanaka
+
+=== Policy Gradient Method over the Input-Output History Model
+
+=== Abstract
+
+In this talk, we will discuss a policy gradient method (PGM) over the so-called input-output history (IOH) representation and its application to the linear quadratic Gaussian (LQG) dynamic output feedback control synthesis. First, we establish the equivalence between the dynamic output feedback and the static partial state feedback under a new system representation characterized by the finite-length IOH. Using this equivalence, we search for the optimal dynamic output feedback controller via the search for the optimal partial state feedback gain. Due to the sparsity constraint on the feedback gain matrix, the latter problem belongs to the class of static output feedback design problems, which by itself is a well-recognized challenging problem. Nevertheless, by exploring a low-dimensional representation of the closed-loop system, we show that the cost function is smooth and exhibits a gradient dominance property under a few mild conditions, ensuring linear convergence of the PGM to the global optimum. This is a joint work with Dr. Tomonori Sadamoto.
+
+=== Bio
+~~~
+{}{img_left}{photos/Tanaka.jpg}{alt text}{200}{302}{}
+Takashi Tanaka received the B.S. degree from the University of Tokyo, Tokyo, Japan, in 2006, and the M.S. and Ph.D. degrees in aerospace engineering (automatic control) from the University of Illinois at Urbana-Champaign, Champaign, IL, USA, in 2009 and 2012, respectively. He was a Postdoctoral Associate with the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology, Cambridge, MA, USA, from 2012 to 2015, and a postdoctoral researcher at KTH Royal Institute of Technology, Stockholm, Sweden, from 2015 to 2017. Since 2017, he has been an Assistant Professor in the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin. His research interests include control theory and its applications, most recently the information-theoretic perspectives of optimal control problems. He was the recipient of the DARPA Young Faculty Award, the AFOSR Young Investigator Program Award, and the NSF Career Award.
+~~~
+
+== Vijay Gupta
+
+=== Reinforcement Learning Across Realistic Communication Channels
+
+=== Abstract 
+
+Federated and distributed reinforcement learning have both been proposed to reduce the data hunger of traditional reinforcement learning algorithms. However, as we know from traditional distributed and networked control literature, constraints on information availability and sharing data across realistic communication channels can affect the stability and performance of the closed loop significantly. We consider such effects in reinforcement learning. We show that information patterns known to be tractable in traditional distributed control, such as partially nested patterns, continue to be tractable in reinforcement learning. On the other hand, while, in general, imperfect communication degrades the performance of RL algorithms, we also establish (perhaps surprisingly) that under suitable conditions on the channel, one can design coding schemes that incur no loss in performance.
+
+=== Bio
+~~~
+{}{img_left}{photos/Gupta.png}{alt text}{200}{300}{}
+Vijay Gupta is the Elmore Professor of Electrical and Computer Engineering and the Associate Head for Graduate and Professional Programs in ECE at the Purdue University. He received his B. Tech degree at Indian Institute of Technology, Delhi, and his M.S. and Ph.D. at California Institute of Technology, all in Electrical Engineering. He is a Fellow of IEEE and has received the 2018 Antonio Ruberti Young Research Award from the IEEE Control Systems Society and the 2013 Donald P. Eckman Award from the American Automatic Control Council.
+~~~
+
+== Vahid Mamduhi
+
+=== Interaction-Aware Control and Planning in Autonomous Networked Systems
+
+=== Abstract 
+
+Performance of control and planning policies for autonomous networked systems is tightly coupled with both quality and type of information being exchanged among distributed components. While the quality of information exchange relates to how accurately the communication network transports data; determining the proper type of data to exchange requires analysing the relevance and value of information with respect to the desired objective. This is especially challenging when the information exchange pattern is dynamic, meaning that the components communicating with each other are not fixed a priori and communicating nodes may change over time. This is common in scenarios such as autonomous driving, where communication with other vehicles and infrastructure occurs based on location and physical interactions. Therefore, efficient control and planning requires two aspects to be properly considered: first, identifying the relevant interaction pattern, and second, ensuring information is transported with sufficient communication quality. In this talk, I will discuss the effects of properly designing both mentioned schemes on the control and planning performance for autonomous systems. Through high-fidelity simulations in an autonomous leader-follower vehicle network scenario, we show that proper interaction design results in noticeable control and planning performance improvement, even under harsh conditions. Moreover, we demonstrate that control-aware communication can provide required quality of service for critical control applications.
+
+=== Bio
+~~~
+{}{img_left}{photos/Mamduhi.jpg}{alt text}{200}{260}{}
+ Mohammad H. Mamduhi is currently an Assistant Professor at the School of Computer Science, The University of Birmingham, UK. Prior to his current position, he was a Senior Scientist at the Department of Information Technology and Electrical Engineering at ETH Zürich in Switzerland. From 2017 to 2020, he was a Postdoctoral and then a Senior Researcher at the Division of Decision and Control Systems, at KTH in Sweden. He received his PhD from the Technical University of Munich in Germany in 2017, his MSc from KTH in Sweden in 2010, and his BSc from Sharif University of Technology in Iran in 2008. He is a Senior IEEE Member with research interests in networked control systems, safe cyber-physical systems, event-based systems, stochastic systems, and control-communication co-design.
+ ~~~
+
+ == Debdipta Goswami
+
+=== Quantized Insights: Unveiling the Impact of Limited Bandwidth on Koopman-Based Identification and Control 
+
+=== Abstract 
+
+Koopman-based data-driven algorithms, such as Dynamic Mode Decomposition (DMD) and Extended Dynamic Mode Decomposition (EDMD), have gained popularity over the past decade as system identification techniques for model predictive control (MPC). However, these methods implicitly assume high-quality data for training, which may not be feasible in many real-world scenarios. For instance, an unmanned micro-air vehicle (UMAV) mapping its environment may transmit sensor data to an edge server, where system identification and learning occur. This data transmission can be affected by bandwidth constraints, channel noise, and packet loss. In this talk, we investigate the impact of bandwidth constraints, specifically quantization, on the identification and learning processes using Koopman-based methods. We will explore the fundamental relationship between estimates of the Koopman operator derived from unquantized data and those obtained from quantized data through DMD/EDMD. Furthermore, utilizing the law of large numbers, we demonstrate that, in a large data regime, the quantized estimate can be regarded as a regularized version of the unquantized estimate. We also examine the relationship between the two estimates in the finite data regime and analyze how nonlinear lifting functions influence this regularization due to quantization. Additionally, we demonstrate how the performance of data-driven MPC deteriorates as a result of quantization in controlled dynamical systems with an application in aerial robotics. This is a joint work with Dr. Dipankar Maity.
+
+=== Bio
+~~~
+{}{img_left}{photos/dgoswami.jpg}{alt text}{200}{265}{}
+ Debdipta Goswami joined the Department of Mechanical and Aerospace Engineering, the Ohio State University, in 2022 as an assistant professor. He received his Ph.D. degree in Electrical and Computer Engineering from the University of Maryland in 2020 under the supervision of Prof. Derek A. Paley. Between 2020 and 2022, he has worked as a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering in Princeton University where he worked with Prof. Clancy Rowley. His research interests lie at the intersection of control systems and machine learning with a focus on motion planning and agile control of aerial robots. He has worked on data-driven discovery and control of dynamical systems using operator-theoretic methods and reservoir computers. His current research focuses on the structured learning of control systems from data with guaranteed performance and simultaneous learning and control of dynamical systems. He also works on model predictive control and motion planning for unmanned aerial vehicles.
+ ~~~

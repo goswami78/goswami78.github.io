@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{lightning.html}, nofooter, addcss{table}
+= Call For Lightning Talks
+
+The ACC 2025 Workshop: Collaborative Connections – Advances in Communication-Aware Learning, Planning, Control, and Games invites researchers and practitioners to submit abstracts for lightning talks. This workshop will be held during the American Control Conference (ACC) 2025 and will focus on the impact of communication constraints on learning, control, and estimation in dynamical systems.
+
+== Submission Guidelines
+
+- Talk Duration: 10 minutes
+- Abstract Length: Up to 250 words
+- Submission Deadline: Mar 15
+- Submission Portal: [https://forms.gle/aktHwn3Lp82iDPWZ7]
+
+Accepted speakers will have the opportunity to present their research, ideas, or ongoing work in a concise and engaging format. These lightning talks are designed to foster discussion and provide a platform for sharing novel insights with the research community.
+
+We welcome contributions on topics including, but not limited to:
+
+- Networked control systems
+- Communication-aware control and mission planning
+- Learning with communication constraints
+- Information structure in dynamic games
+
+We look forward to your participation in advancing the field of communication-aware learning, planning, control, and games.
