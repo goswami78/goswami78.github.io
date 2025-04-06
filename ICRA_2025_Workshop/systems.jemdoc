@@ -1,4 +1,34 @@
 # jemdoc: menu{MENU}{systems.html}, nofooter, addcss{table}
 = Systems and Missions
 
-Coming soon!
+== Zhaodan Kong
+
+=== Uncrewed Aerial System for Early Wildfire Detection 
+
+=== Abstract
+
+Due to the joint factors of an expanding wildland-urban interface (WUI) and climate change, we are witnessing an increasing number of wildfires that burn bigger, with a higher intensity, and spread out of control faster. Damages caused by wildfires, in terms of the total area burned, the firefighting cost, and the lives lost (directly by wildfire or indirectly by resulting air population), have doubled over the past two decades. Early wildfire detection enhances our capability to respond swiftly and effectively to emerging fire threats, enabling targeted efforts and implementation of evacuation protocols to mitigate the impact on lives, property, and natural ecosystems. In this talk, I will present our recent results on developing and testing an uncrewed aerial system (UAS) for early wildfire detection. Specifically, I will describe an uncrewed aerial vehicle (UAV) uniquely designed for wildfire detection and monitoring. In addition, I will present how the UAV was used to collect data near prescribed burns conducted by the California Department of Forestry and Fire Protection (CAL FIRE) and how the data was used to develop a data-driven plume dynamics model. Finally, results will be presented on how the model and a source allocation algorithm were used to track fire plumes by the UAV in real time. 
+ 
+
+=== Bio
+~~~
+{}{img_left}{photos/kong.jpg}{alt text}{200}{300}{}
+Dr. Zhaodan Kong is an Associate Professor in the Department of Mechanical and Aerospace Engineering at the University of California, Davis. He earned his B.S. and M.S. degrees in Astronautics and Mechanics from Harbin Institute of Technology in 2004 and 2006, and completed his Ph.D. in Aerospace Engineering with a minor in Cognitive Science at the University of Minnesota in 2012. He then worked as a Postdoctoral Associate at Boston University before joining UC Davis in 2015. Dr. Kong’s research focuses on control theory, machine learning, and formal methods, with applications in autonomous systems, human-autonomy teaming, cyber-physical systems, and neural engineering. He directs the Cyber-Human-Physical Systems Lab and is affiliated with several interdisciplinary centers at UC Davis, including the Center for Spaceflight Research and the Center for Neuroengineering & Medicine. He is a Senior Member of AIAA and IEEE, and a member of ACM and the Vertical Flight Society.
+~~~
+
+== Sheng Cheng
+
+=== Navigating Complex Spatiotemporal Processes: Mobile Robots for Monitoring and Controlling Wildland Fire 
+
+=== Abstract
+
+ In this talk, I will present a cooperative framework designed for the estimation and control of complex spatiotemporal fields, with specific relevance to wildland fire management. Monitoring and controlling dynamic, large-scale environmental processes, such as fire spread, poses significant challenges for human operators. By delegating these tasks to autonomous mobile robots, we can enhance both the efficiency and safety of fire management operations. The core of the framework models the spatiotemporal field as a partial differential equation (PDE). Mobile robots equipped with sensors and actuators estimate and influence this evolving process, which requires dynamic control strategies. I will discuss the nonlinear optimization approach that simultaneously seeks optimal robot actuation and guidance while accounting for real-world limitations, such as onboard resources and constrained mobility. Additionally, I will present results from hardware-in-the-loop simulations with multi-robot systems, which demonstrate the framework's robustness in outdoor environments. These insights into cooperative robotic systems offer practical solutions for handling dynamic field processes, such as wildland fires, through autonomous estimation and control. The talk will also explore potential adaptations of this framework to fire-resilient ecosystems and climate management. 
+
+
+=== Bio
+~~~
+{}{img_left}{photos/cheng.jpg}{alt text}{200}{300}{}
+Sheng Cheng is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC), working under the guidance of Dr. Naira Hovakimyan. He leads the ACRL Multirotor Team, focusing on adaptive control, robotics, and optimization. Sheng earned his Ph.D. in Electrical Engineering from the University of Maryland in 2021, where he was advised by Dr. Derek A. Paley. His doctoral research centered on the optimal guidance and control of distributed parameter systems using mobile actuators and sensors. He also holds a B.Eng. in Control Science and Engineering from Harbin Institute of Technology, China. In 2025, Sheng was recognized as a Future Leader in Robotics and AI by the University of Maryland. His notable publications include work on DiffTune, an auto-tuning framework through auto-differentiation, and L1Quad, an adaptive augmentation of geometric control for agile quadrotors.
+~~~
+
+

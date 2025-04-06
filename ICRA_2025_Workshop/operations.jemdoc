@@ -1,4 +1,38 @@
 # jemdoc: menu{MENU}{operations.html}, nofooter, addcss{table}
 = Operations
 
-Coming soon!
+== Erin Linebarger
+
+=== From Ground to Sky: Leveraging Autonomous UAS to Scale Prescribed Fire Operations
+
+=== Abstract
+
+Prescribed fire is a crucial, scalable strategy for mitigating the wildfire crisis, yet resource constraints often hinder land managers from meeting their
+burn targets of 2-4 times their annual acreages. Prescribed fires are conducted under controlled conditions to reduce wildfire risks and enhance
+biodiversity, soil health, watershed stability, and overall ecosystem resilience. Currently, subcanopy surveys—a key component in both planning and
+post-fire assessments—rely on time-consuming manual, on-foot methods that limit scalability. We introduce a transformative solution: an autonomous
+Unmanned Aerial System (UAS) designed for efficient subcanopy surveys. This UAS, optimized for fire risk mitigation, acts as a force multiplier,
+significantly enhancing the scale and effectiveness of prescribed fire management.
+ 
+
+=== Bio
+~~~
+{}{img_left}{photos/linebarger.png}{alt text}{200}{300}{}
+Dr. Erin Linebarger is the CEO and Co-founder of Robotics 88, where she and her team are on a mission to tackle the wildfire crisis with cutting-edge drone technology that enables large-scale prescribed fires for wildfire mitigation. Their goal is to not only prevent catastrophic wildfires today but also provide a force multiplier effect to any geospatial climate tech in the future through their decision-making drones. Erin earned her PhD in math from the University of Utah, specializing in robotic perception and decision-making algorithms. Her research is the foundation of Robotics 88’s autonomous adaptive navigation system. Erin is an Activate Boston fellow and has participated in programs including the MassRobotics Accelerator, MIT Spark, and The Engine Blueprint to sharpen her entrepreneurial skills. She served as Robotics 88’s PI for 3 SBIR/STTR grants through NSF and NOAA. Before this, she built her expertise in robotics and business development through roles at Neya Systems, NUWC Newport, and as CEO/Co-founder of Ascend Autonomy. During her PhD, Erin earned recognition through awards including the NSF Graduate Research Fellowship, the ONR NREIP internship, and the Naval Undersea Research Program Fellowship. 
+~~~
+
+== Natasha Neogi
+
+=== TBD
+
+=== Abstract
+
+TBD
+
+=== Bio
+~~~
+{}{img_left}{photos/neogi.jpeg}{alt text}{200}{200}{}
+TBD
+~~~
+
+
