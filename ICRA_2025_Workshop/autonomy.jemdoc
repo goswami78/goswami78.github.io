@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{autonomy.html}, nofooter, addcss{table}
+= Robot Autonomy
+
+== Yannis Kantaros
+
+=== Safe Robot Autonomy in Unknown and Dynamic Environments 
+
+=== Abstract
+
+Recent advancements in computer vision, AI, and control theory have significantly enhanced the capabilities of autonomous robots in tasks such as package delivery, underground mapping, surveillance, and environmental monitoring. Despite these improvements, integrating AI into autonomous systems introduces new challenges in safety and reliability. This talk addresses these challenges by focusing on the safe integration of AI components for perception and decision-making in autonomous systems. I will present a novel mission planning algorithm designed for teams of mobile robots equipped with AI-enabled perception systems, operating in unknown and dynamic environments. This algorithm utilizes statistical methods to quantify perceptual uncertainty, which is then incorporated into the mission planning process. It enables robots to perform high-level tasks (e.g., surveillance, delivery) while adhering to user-specified probabilistic task and safety requirements, and actively mitigating environmental uncertainties arising from imperfect perception. Applications to wildland fire management will also be discussed. I will also discuss extensions of this algorithm to handle dynamically changing missions and unexpected robot failures that may occur in adversarial environments. Case studies involving both aerial and ground robots will be shared to illustrate the effectiveness of the proposed approach. 
+
+ 
+
+=== Bio
+~~~
+{}{img_left}{photos/kantaros.jpg}{alt text}{200}{300}{}
+Yiannis Kantaros joined the Department of Electrical & Systems Engineering at Washington University in St. Louis as an assistant professor in January 2022. Previously, he was a postdoctoral associate in the GRASP and the PRECISE lab at the University of Pennsylvania. He received the Diploma in Electrical and Computer Engineering in 2012 from the University of Patras in Greece. He also earned MSc and PhD degrees in mechanical engineering from Duke University in 2017 and 2018, respectively. He received the Best Student Paper Award at the 2nd IEEE Global Conference on Signal and Information Processing (GlobalSIP) in 2014 and was a finalist for the Best Multi-Robot Systems Paper at the IEEE International Conference on Robotics and Automation (ICRA) in 2024. Additionally, he received the 2017-18 Outstanding Dissertation Research Award from the Department of Mechanical Engineering and Materials Science at Duke University, as well as a 2024 NSF CAREER Award.
+~~~
+
+== Derek A. Paley
+
+=== Applied Autonomy for Robotic Perception and Situational Awareness 
+
+=== Abstract
+
+This talk will describe ongoing research in applied aerial and ground autonomy for multi-robot systems equipped with advanced perception. The research is being conducted by faculty, staff, and students in the Maryland Robotics Center in collaboration with the UMD UAS Research and Operation Center and the UMD School of Medicine. First, I will present applied aerial autonomy and air-ground coordination efforts for extended range operations under the ArtIAMAS (AI and Autonomy for Multi-Agent Systems) cooperative agreement with the Army Research Lab. Second, I will present advancements in non-contact robotic assessment of personnel in mass casualty incidents developed for the DARPA Triage Challenge. Lastly, I will describe a UAS solution developed for the XPrize Wildfire competition, which seeks to use drones to detect and suppress emergent wildfires. 
+
+=== Bio
+~~~
+{}{img_left}{photos/paley.jpg}{alt text}{210}{250}{}
+Derek A. Paley is Director of the Maryland Robotics Center and Willis H. Young Jr. Professor of Aerospace Engineering Education in the Department of Aerospace Engineering and the Institute for Systems Research at the University of Maryland. Paley received the B.S. degree in Applied Physics from Yale University in 1997 and the Ph.D. degree in Mechanical and Aerospace Engineering from Princeton University in 2007. He teaches introductory dynamics, advanced dynamics, aircraft flight dynamics and control, collective behavior, and nonlinear control. Paley’s research interests are in the area of dynamics and control, including cooperative control of autonomous vehicles, adaptive sampling with mobile networks, spatial modeling of biological groups, and bioinspired robotics. He serves as Associate Editor of AIAA Journal of Guidance, Control, and Dynamics and IEEE Control Systems Magazine. 
+~~~
+
+== Nikolay A. Atanasov
+
+=== Aerial Robot Autonomy for Metric-Semantic Terrain Mapping
+
+=== Abstract
+
+An important aspect of wildland fire management is pre- and post-fire monitoring of the environment. Autonomous aerial robots offer significant potential for persistent monitoring of outdoor terrain to aid wildfire prediction and impact analysis. This talk will present (1) mapping techniques to estimate terrain geometry and semantics in real time using aerial images, (2) planning techniques to generate robot flight trajectories for persistent monitoring, and (3) control techniques to achieve safe autonomous trajectory tracking despite uncertainty and disturbances. 
+
+=== Bio
+~~~
+{}{img_left}{photos/Atanasov.jpg}{alt text}{200}{270}{}
+Nikolay A. Atanasov is Associate Professor of Electrical and Computer Engineering at the University of California San Diego, La Jolla, CA, USA. He obtained a B.S. degree in Electrical Engineering from Trinity College, Hartford, CT, USA in 2008, and M.S. and Ph.D. degrees in Electrical and Systems Engineering from University of Pennsylvania, Philadelphia, PA, USA in 2012 and 2015, respectively. Dr. Atanasov's research focuses on robotics, control theory, and machine learning with emphasis on active perception problems for autonomous mobile robots. He works on probabilistic models for simultaneous localization and mapping (SLAM) as well as optimal control and reinforcement learning algorithms for minimizing probabilistic model uncertainty. Dr. Atanasov's work has been recognized by the Joseph and Rosaline Wolf award for the best Ph.D. dissertation in Electrical and Systems Engineering at the University of Pennsylvania in 2015, the Best Conference Paper Award at the IEEE International Conference on Robotics and Automation (ICRA) in 2017, the NSF CAREER Award in 2021, and the IEEE RAS Early Academic Career Award in Robotics and Automation in 2023. 
+~~~
+

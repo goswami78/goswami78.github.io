@@ -3,8 +3,27 @@
 
 == Location
 
-Coming soon.
+Georgia World Congress Center, Atlanta, Georgia
 
 == Tentative Schedule
 
-Coming soon.
+The workshop will be held on May 23, 2025. It includes 2 keynote lectures, 12 technical talks, and 8 lightning talks from invited speakers along with panel discussions and poster session. 
+All times are listed in Eastern Daylight Time (EDT), UTC -5:00.
+
+~~~
+{}{table}{Session_1}
+Time  | Session Title  | Contributions| Speakers ||
+ 8:30am-9:30am  | [keynote.html *Keynote*] | Opening remarks and keynote lecture for general audience | Bethany Hannah ||
+ 9:30am-10:45am  | [autonomy.html *Robot Autonomy*] | 3 technical talks and 2 lightning talks | Yannis Kantaros, Derek A. Paley, Nikolay A. Atanasov ||
+ 10:45am-11:15am | [past.html *Past Workshops*] | Overview of the past workshops | Workshop organizers ||
+ 11:15am-12:30am | [fusion.html *Fusion, Decision & Control in Multiagent Systems*] | 3 technical talks and 2 lightning talks | Fatemeh Afghah, Hamid Jafarkhani, Ningshi Yao||
+ 12:30pm-1:30pm | *Lunch Break* ||
+ 1:30pm-2:15pm  | [techkeynote.html *Technical Keynote*] | Keynote lecture focusing on technical challenges of autonomy | Sebastian Scherer ||
+ 2:15pm-3:00pm  | [operations.html *Operations*] | 2 technical talks and 2 lightning talks | Erin Linebarger, Natasha Neogi ||
+ 3:00pm-3:30pm  | *Panel Discussion* | Topic: TBD | Invited speakers and open mic ||
+ 3:30pm-4:15pm  | [systems.html *Systems and Missions*] | 2 technical talks and 2 lightning talks | Zhaodan Kong, Sheng Cheng ||
+ 4:15pm-5:15pm | *Poster Session* | Poster presentation from early career researchers |  ||
+ 5:15pm-5:30pm  | *Closing Remarks* | Workshop summary and concluding remarks | Workshop organizers ||
+~~~
+
+
