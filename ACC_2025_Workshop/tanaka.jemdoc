@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{tanaka.html}, nofooter
+==Policy Gradient Method over the Input-Output History Model
+
+=== Speaker
+
+Takashi Tanaka
+
+=== Affiliation
+
+Associate Professor\n
+School of Aeronautics and Astronautics\n
+Purdue University
+
+=== Abstract
+
+In this talk, we will discuss a policy gradient method (PGM) over the so-called input-output history (IOH) representation and its application to the linear quadratic Gaussian (LQG) dynamic output feedback control synthesis. First, we establish the equivalence between the dynamic output feedback and the static partial state feedback under a new system representation characterized by the finite-length IOH. Using this equivalence, we search for the optimal dynamic output feedback controller via the search for the optimal partial state feedback gain. Due to the sparsity constraint on the feedback gain matrix, the latter problem belongs to the class of static output feedback design problems, which by itself is a well-recognized challenging problem. Nevertheless, by exploring a low-dimensional representation of the closed-loop system, we show that the cost function is smooth and exhibits a gradient dominance property under a few mild conditions, ensuring linear convergence of the PGM to the global optimum. This is a joint work with Dr. Tomonori Sadamoto.
+
+=== Bio
+~~~
+{}{img_left}{photos/Tanaka.jpg}{alt text}{200}{302}{}
+Takashi Tanaka is an Associate Professor at the School of Aeronautics and Astronautics and the Elmore Family School of Electrical and Computer Engineering at Purdue University. He received his B.S. from the University of Tokyo and his M.S. and Ph.D. degrees in aerospace engineering from the University of Illinois at Urbana-Champaign. Dr. Tanaka was a Postdoctoral Associate with the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology from 2012 to 2015, and a postdoctoral researcher at KTH Royal Institute of Technology from 2015 to 2017. He was an Assistant Professor in the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin between 2017 and 2024, where he was an Associate Professor in 2024. Dr. Tanaka's research interests include control theory and its applications, most recently the information-theoretic perspectives of optimal control problems. He received the DARPA Young Faculty Award, the AFOSR Young Investigator Program Award, and the NSF Career Award.
+~~~

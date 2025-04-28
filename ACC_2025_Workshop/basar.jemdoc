@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{basar.html}, nofooter
+==Intricacies of Information Structures in Stochastic Dynamic Games
+
+=== Speaker
+
+Tamer Basar
+
+=== Affiliation
+
+Professor, School of Electrical Engineering and Computer Science\n
+KTH Royal Institute of Technology
+
+=== Abstract
+
+The talk will cover, in both continuous time and discrete time, the issue of certainty equiva-
+lence in two-player stochastic differential/dynamic games, first in the zero-sum framework and when the
+players have access to state information through a common noisy measurement channel. For the discrete-
+time case, the channel is also allowed to fail sporadically according to an independent Bernoulli process,
+leading to intermittent loss of measurements, where the players are allowed to observe past realizations
+of this process. It will be shown, first for a special class of parametrized games, that there would be
+saddle-point equilibria (SPE) of both certainty-equivalent (CE) and non-CE types, and for the latter the
+SPE involves mixed strategies by the maximizer. The insight provided by the analysis of this class of
+games will be used to obtain through an indirect approach SPE for three classes of stochastic differen-
+tial/dynamic games: (i) linear-quadratic-Gaussian (LQG) zero- sum differential games with common noisy
+measurements, (ii) discrete-time LQG zero-sum dynamic games with common noisy measurements, and
+(iii) discrete-time LQG zero-sum dynamic games with intermittently missing perfect state measurements.
+In all cases CE is a generalized notion, requiring two separate filters for the players, even though they
+have a common communication channel. Discussions on extensions to other classes of stochastic games,
+including nonzero-sum stochastic dynamic games, and on the challenges that lie ahead will conclude the
+talk.
+
+=== Bio
+~~~
+{}{img_left}{photos/Basar.jpeg}{alt text}{200}{300}{}
+Tamer Basar has been with the University of Illinois Urbana-Champaign since 1981, where he is currently Swanlund Endowed Chair Emeritus and Center for Advanced Study (CAS) Professor Emeritus of Electrical and Computer Engineering, with also affiliations with the Coordinated Science Laboratory, Information Trust Institute, and Mechanical Science and Engineering. At Illinois, he has also served as Director of CAS (2014-2020), Interim Dean of Engineering (2018), and Interim Director of the Beckman Institute (2008-2010). He received B.S.E.E. from Robert College, Istanbul, and M.S., M.Phil., and Ph.D. from Yale University, from which he received in 2021 the Wilbur Cross Medal. He is a member of the US National Academy of Engineering and a Fellow of the American Academy of Arts and Sciences, as well as Fellow of IEEE, IFAC, and SIAM. He has served as president of IEEE CSS (Control Systems Society), ISDG (International Society of Dynamic Games), and AACC (American Automatic Control Council). He has received several awards and recognitions over the years, including the highest awards of IEEE CSS, IFAC, AACC, and ISDG, the IEEE Control Systems Award, and a number of international honorary doctorates and professorships. He has over 1000 publications in systems, control, communications, optimization, networks, and dynamic games, including books on non-cooperative dynamic game theory, robust control, network security, wireless and communication networks, and stochastic networked control. He was the Editor-in-Chief of Automatica between 2004 and 2014, and is currently editor of several book series. His current research interests include stochastic teams, games, and networks; risk-sensitive estimation and control; mean-field game theory; multi-agent systems and learning; data-driven distributed optimization; epidemics modeling and control over networks; strategic information transmission, spread of disinformation, and deception; security and trust; energy systems; and cyber-physical systems.
+~~~

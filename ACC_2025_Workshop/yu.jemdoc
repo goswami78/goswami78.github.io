@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{yu.html}, nofooter
+==Multi-Robot Systems under Uncertainty: Balancing Communication Constraints and Task Satisfaction
+
+=== Speaker
+
+Xi Yu
+
+=== Affiliation
+
+Assistant Professor\n
+School of Manufacturing Systems and Networks\n
+Arozona State University
+
+=== Abstract
+
+Today's grand challenges, such as exploring ocean depths, navigating remote wilderness areas, and venturing into outer space, require the application of autonomous technologies in inaccessible and extreme environments. These conditions significantly impact the sensing, communication, and decision-making capabilities of robots. Multi-robot systems present promising solutions as both de-risking strategies with additional spatial-temporal capabilities in data collection and complex tasks delivery. Effective communication is essential for coordinating multiple robots. Much of the progress to date has assumed universally available and reliable communication, which is often untrue, particularly in high-uncertainty environments. As a result, robots face difficulties in regaining or enhancing communication while simultaneously completing their tasks. This talk explores resilient strategies for multi-robot systems that balance and integrate communication persistence with task planning. It highlights how robots use local decision-making to maintain intermittent connectivity while addressing complex tasks, as well as incorporating user preferences for efficient, near-optimal trajectory generation.
+
+=== Bio
+~~~
+{}{img_left}{photos/xi.jpg}{alt text}{200}{265}{}
+Xi Yu is an assistant professor in the School of Manufacturing Systems and Networks at Arizona State University. She received a B.S. and a Dipl.-Ing. in mechanical engineering from Karlsruhe Institute of Technology (KIT) in Germany. In 2018, she received a Ph.D. in mechanical engineering from Boston University and joined the GRASP Lab at University of Pennsylvania as a postdoc associate. Prior to her appointment at ASU, she had been an assistant professor in Mechanical and Aerospace Engineering at West Virginia University since January 2021. Yu’s main research interests include exploring challenging environments (i.e. large-scale environments with intrinsic dynamics, uncertainties, or dangers) with teams of robots that are subject to restrictions in actuation, sensing, and communication capabilities, and to forward the understanding of the time-varying, stochastic networks synthesized by the robot teams. 
+~~~

@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{mamduhi.html}, nofooter
+==Interaction-Aware Control and Planning in Autonomous Networked Systems
+
+=== Speaker
+
+Vahid Mamduhi
+
+=== Affiliation
+
+Assistant Professor\n, 
+School of Computer Science\n
+University of Birmingham
+
+=== Abstract
+
+Performance of control and planning policies for autonomous networked systems is tightly coupled with both quality and type of information being exchanged among distributed components. While the quality of information exchange relates to how accurately the communication network transports data; determining the proper type of data to exchange requires analysing the relevance and value of information with respect to the desired objective. This is especially challenging when the information exchange pattern is dynamic, meaning that the components communicating with each other are not fixed a priori and communicating nodes may change over time. This is common in scenarios such as autonomous driving, where communication with other vehicles and infrastructure occurs based on location and physical interactions. Therefore, efficient control and planning requires two aspects to be properly considered: first, identifying the relevant interaction pattern, and second, ensuring information is transported with sufficient communication quality. In this talk, I will discuss the effects of properly designing both mentioned schemes on the control and planning performance for autonomous systems. Through high-fidelity simulations in an autonomous leader-follower vehicle network scenario, we show that proper interaction design results in noticeable control and planning performance improvement, even under harsh conditions. Moreover, we demonstrate that control-aware communication can provide required quality of service for critical control applications.
+
+=== Bio
+~~~
+{}{img_left}{photos/Mamduhi.jpg}{alt text}{200}{260}{}
+ Mohammad H. Mamduhi is currently an Assistant Professor at the School of Computer Science, The University of Birmingham, UK. Prior to his current position, he was a Senior Scientist at the Department of Information Technology and Electrical Engineering at ETH Zürich in Switzerland. From 2017 to 2020, he was a Postdoctoral and then a Senior Researcher at the Division of Decision and Control Systems, at KTH in Sweden. He received his PhD from the Technical University of Munich in Germany in 2017, his MSc from KTH in Sweden in 2010, and his BSc from Sharif University of Technology in Iran in 2008. He is a Senior IEEE Member with research interests in networked control systems, safe cyber-physical systems, event-based systems, stochastic systems, and control-communication co-design.
+ ~~~

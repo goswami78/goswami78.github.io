@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{gupta.html}, nofooter
+==Reinforcement Learning Across Realistic Communication Channels
+
+=== Speaker
+
+Vijay Gupta
+
+=== Affiliation
+
+Professor, Electrical and Computer Engineering\n
+Purdue University
+
+=== Abstract
+
+Federated and distributed reinforcement learning have both been proposed to reduce the data hunger of traditional reinforcement learning algorithms. However, as we know from traditional distributed and networked control literature, constraints on information availability and sharing data across realistic communication channels can affect the stability and performance of the closed loop significantly. We consider such effects in reinforcement learning. We show that information patterns known to be tractable in traditional distributed control, such as partially nested patterns, continue to be tractable in reinforcement learning. On the other hand, while, in general, imperfect communication degrades the performance of RL algorithms, we also establish (perhaps surprisingly) that under suitable conditions on the channel, one can design coding schemes that incur no loss in performance.
+
+=== Bio
+~~~
+{}{img_left}{photos/Gupta.png}{alt text}{200}{300}{}
+Vijay Gupta is the Elmore Professor of Electrical and Computer Engineering and the Associate Head for Graduate and Professional Programs in ECE at the Purdue University. He received his B. Tech degree at Indian Institute of Technology, Delhi, and his M.S. and Ph.D. at California Institute of Technology, all in Electrical Engineering. He is a Fellow of IEEE and has received the 2018 Antonio Ruberti Young Research Award from the IEEE Control Systems Society and the 2013 Donald P. Eckman Award from the American Automatic Control Council.
+~~~

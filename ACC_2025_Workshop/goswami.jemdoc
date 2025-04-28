@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{goswami.html}, nofooter
+==Quantized Insights: Unveiling the Impact of Limited Bandwidth on Koopman-Based Identification and Control 
+
+=== Speaker
+
+Debdipta Goswami
+
+=== Affiliation
+
+Assistant Professor\n
+Department of Mechanical and Aerospace Engineering\n
+The Ohio State University
+
+=== Abstract
+
+Koopman-based data-driven algorithms, such as Dynamic Mode Decomposition (DMD) and Extended Dynamic Mode Decomposition (EDMD), have gained popularity over the past decade as system identification techniques for model predictive control (MPC). However, these methods implicitly assume high-quality data for training, which may not be feasible in many real-world scenarios. For instance, an unmanned micro-air vehicle (UMAV) mapping its environment may transmit sensor data to an edge server, where system identification and learning occur. This data transmission can be affected by bandwidth constraints, channel noise, and packet loss. In this talk, we investigate the impact of bandwidth constraints, specifically quantization, on the identification and learning processes using Koopman-based methods. We will explore the fundamental relationship between estimates of the Koopman operator derived from unquantized data and those obtained from quantized data through DMD/EDMD. Furthermore, utilizing the law of large numbers, we demonstrate that, in a large data regime, the quantized estimate can be regarded as a regularized version of the unquantized estimate. We also examine the relationship between the two estimates in the finite data regime and analyze how nonlinear lifting functions influence this regularization due to quantization. Additionally, we demonstrate how the performance of data-driven MPC deteriorates as a result of quantization in controlled dynamical systems with an application in aerial robotics. This is a joint work with Dr. Dipankar Maity.
+
+=== Bio
+~~~
+{}{img_left}{photos/dgoswami.jpg}{alt text}{200}{265}{}
+ Debdipta Goswami joined the Department of Mechanical and Aerospace Engineering, the Ohio State University, in 2022 as an assistant professor. He received his Ph.D. degree in Electrical and Computer Engineering from the University of Maryland in 2020 under the supervision of Prof. Derek A. Paley. Between 2020 and 2022, he has worked as a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering in Princeton University where he worked with Prof. Clancy Rowley. His research interests lie at the intersection of control systems and machine learning with a focus on motion planning and agile control of aerial robots. He has worked on data-driven discovery and control of dynamical systems using operator-theoretic methods and reservoir computers. His current research focuses on the structured learning of control systems from data with guaranteed performance and simultaneous learning and control of dynamical systems. He also works on model predictive control and motion planning for unmanned aerial vehicles.
+ ~~~

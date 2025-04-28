@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{yedavalli.html}, nofooter
+==Eigenvalues, with many of their shortcomings, are unsuitable for use in Modern Data Driven Methods and Machine Learning, Artificial Intelligence Based Applications: New Convex Stability Indices are More Amenable 
+
+=== Speaker
+
+Rama Yedavalli
+
+=== Affiliation
+
+Academy Professor\n
+Department of Mechanical and Aerospace Engineering\n
+The Ohio State University\n
+
+Founder, President, CEO and CTO of Robust Engineering Systems, LLC \n
+Dublin, OH, 43017, U.S.A.
+
+
+
+=== Abstract
+
+This presentation first gives an overview of the research carried out by Prof. Yedavalli and his group on stability and robustness of dynamic systems described by linear state space models with applications in aerospace, mechanical and electrical systems using both eigenvalue based stability assessment via Transformation Compliant (TC) methods such as the Routh-Hurwitz Criterion, Cayley-Hamilton Theorem, and Lyapunov Matrix Equation methods as well as sign pattern based Qualitative Sign Stability (QLSS) approach being used by ecology researchers. Then, by juxtaposing these two extreme viewpoints, namely TC methods (which are not concerned about sign patterns) and QLSS methods (which do not use quantitative magnitude information), the shortcomings of eigenvalues are demonstrated and a new stability assessment method without using eigenvalues is presented. This new Transformation Allergic (TA) approach uses a new concept of stability, namely Convex Stability as opposed to Hurwitz stability (for continuous time systems) and Schur stability (for discrete time and sampled data systems) for the real state variable convergence issue of Linear Systems that include time invariant as well as time varying systems, allowing multiple equilibrium points both in continuous time and as well as discrete time domains.  It is shown that the new Convex Stability concept is also equivalent to the problem of Static Output Feedback (SOF) stabilization. The new Convex Stability Theory presents counterexamples to current literature linear algebra and matrix theory textbook statements on eigenvalue properties, including to all the TC methods mentioned above. This patented Convex Stability concept (proposed by his startup firm Robust Engineering Systems, LLC which served as a Bronze Sponsor for ACC2024) does not need the transfer function approach and proves that the celebrated Mapping theorem is not only irrelevant for convex stability (and SOF stabilization) but also is incorrect in eigenvalue-based methods. Thus, in summary, it is concluded that current literature eigenvalue methods are highly constrained and limited in their capabilities and are not amenable to embrace the modern highly data intensive applications and fit into the modern Machine Learning and Artificial Intelligence environment. 
+
+=== Bio
+~~~
+{}{img_left}{photos/yedavalli.jpg}{alt text}{200}{266}{}
+ Dr. Yedavalli received his Ph.D degree from the School of Aeronautics and Astronautics of Purdue University in the Dynamics and Control area in 1981. His Bachelor’s and Master’s degree were both from the Indian Institute of Science (IISc), Bangalore, India. He received the `Distinguished Alumnus Award’ in 2009 and the “Platinum Jubilee Award”  and the “Satish Dhawan (Visiting) Chaired Professorship” in 2017-18  from the AE department of IISc. 
+
+Dr. Yedavalli is a Fellow of IEEE, a Fellow of ASME, a Fellow of AAAS and an Associate Fellow of AIAA. He received the O.Hugo Schuck Best Paper award from the American Automatic Control Council in 2001. In 2002, he also received the `Lumley Research Award’ by the Ohio State University’s College of Engineering. He published a graduate level text book with Springer in Jan 2014 titled: “Robust Control of Uncertain Dynamic Systems: A Linear State Space Approach” and an Undergraduate level textbook titled: “Flight Dynamics and Control of Aero and Space Vehicles”  published by Wiley in 2020.  A third book is under contract to be delivered to AIAA Education Series in 2025 in which he plans to discuss the Convex Stability Approach. He published close to 200 Journal, Book chapters and Conference papers and presented invited seminars on these topics. He holds the title of Academy Professor from the Ohio State University and currently serves as the Founder, President, CEO and CTO of the startup firm Robust Engineering Systems, LLC, which holds the patent for the contents of this seminar presentation. Since his Academy Professor title is an honorary title bestowed on him by OSU after he became an Emeritus Professor from 1st January 2022, his entrepreneurial role does not have any Conflict of Interest with his professorial role at OSU. 
+ ~~~
