@@ -17,18 +17,24 @@ Director, [SOAR_Lab/index.html Systems, Optimization, Autonomous Robotics Labora
 Thank you for visiting my site. I am an assistant professor in the Department of Mechanical and Aerospace Engineering ([https://mae.osu.edu/ MAE]) at The Ohio State University. I received my Ph.D. in Electrical and Computer Engineering from University of Maryland ([https://ece.umd.edu/ UMD]), USA, under the supervision of [https://aero.umd.edu/clark/faculty/58/Derek-A-Paley/ Prof. Derek A. Paley] in 2020. Prior to that, I did my undergrad in Electronics and Telecommunication Engineering from [http://www.jaduniv.edu.in/ Jadavpur University], India in 2015. I spent two years in the Department of Mechanical and Aerospace Engineering ([https://mae.princeton.edu/ MAE]) at Princeton University as a postdoc. You can find my dissertation [mainthesis.pdf here] along with the [DissertationSlides.pptx slides].
 
 == SOAR Lab
-We work on exciting research problems at the interscetion of dynamical systems, machine learning, and unmanned aerial vehicles. Please visit our [SOAR_Lab/index.html lab page] for more information
+We work on exciting research problems at the interscetion of dynamical systems, machine learning, and unmanned aerial vehicles. Please visit our [SOAR_Lab/index.html lab page] for more information.
 
 == Recent news
 ~~
+- 2025/06 Our [https://arxiv.org/abs/2403.12335 paper] on temporally consistent Koopman autoencoders got accepted in Nature Scientific Reports. Congratulations Ananda.
+- 2025/05 Max successfully defended his undergraduate honors thesis. Congratulations Max!
+- 2025/04 Sriram successfully defended his PhD dissertation. Congratulations Dr. Narayanan!
+- 2025/01 We are going to organize a [ICRA_2025_Workshop/index.html workshop] on robot autonomy in wildland fire at ICRA 2025. See you at Atlanta!
+- 2025/01 We are going to organize a [ACC_2025_Workshop/index.html workshop] on communication aware learning and control at American Control  Conference 2025. 
+- 2025/01 Three papers from SOAR Lab are accepted for presentation at American Control Conference 2025. See you at Denver.
 - 2024/07 Our [https://arxiv.org/abs/2404.02014 paper] on the effect of quantization on DMD is accepted in IEEE Conference on Decision and Control 2024. See you at Milan!
 - 2023/08 Shahab Ataei, Ananda Chakrabarti, and Santosh M Rajkumar join SOAR Lab. Welcome Shahab, Ananda, and Santosh.
-- 2023/07 Our [https://arxiv.org/abs/2304.00198 paper] on sequentially training an echo-state network from noisy observations is accepted in IEEE Conference on Decision and Control 2023. See you at Singapore!
-- 2023/03 Our [https://arxiv.org/abs/2211.05992 paper] on training echo-state networks from partial observations is accepted in IFAC World Congress 2023. See you at Yokohama!
-- 2023/01 We are going to organize a [ACC_2023_Workshop/index.html workshop] on data-driven methods in system and control in American Control  Conference, 2023. See you at San Diego!
-- 2022/10 Our article on data-driven study of urban micromobility is now published in the IEEE Control Systems Magazine. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
-- 2022/06 I will join The Ohio State University at the Department of Mecanical and Aerospace Engineering as an assistant professor from Fall 2022.
-- 2022/03 Our article on optimal control while learning on the fly got accepted in L4DC 2022. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]
+#- 2023/07 Our [https://arxiv.org/abs/2304.00198 paper] on sequentially training an echo-state network from noisy observations is accepted in IEEE Conference on Decision and Control 2023. See you at Singapore!
+#- 2023/03 Our [https://arxiv.org/abs/2211.05992 paper] on training echo-state networks from partial observations is accepted in IFAC World Congress 2023. See you at Yokohama!
+#- 2023/01 We are going to organize a [ACC_2023_Workshop/index.html workshop] on data-driven methods in system and control in American Control  Conference, 2023. See you at San Diego!
+#- 2022/10 Our article on data-driven study of urban micromobility is now published in the IEEE Control Systems Magazine. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
+#- 2022/06 I will join The Ohio State University at the Department of Mecanical and Aerospace Engineering as an assistant professor from Fall 2022.
+#- 2022/03 Our article on optimal control while learning on the fly got accepted in L4DC 2022. \[[https://proceedings.mlr.press/v168/gurevich22a.html link]\]
 #- 2021/09 Our article on data-driven study of urban micromobility got accepted for publication in the IEEE Control Systems Magazine.
 #- 2021/06 Our paper on bilinear representation of nonlinear control systems using Koopman spectra got accepted for publication in the IEEE Transactions on Automatic Control. \[[https://ieeexplore.ieee.org/abstract/document/9454367 link]\]
 #- 2020/11: Our paper on online parameter estimation and output feedback control of pitching airfoil got accepted for publication in AIAA Journal of Guidance, Control, and Dynamics. \[[https://arc.aiaa.org/doi/10.2514/1.G005441 link]\]

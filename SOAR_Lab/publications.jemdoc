@@ -8,12 +8,15 @@
 - D. Goswami and D. A. Paley, "Global Bilinearization and Reachability Analysis of Control-Affine Nonlinear Systems", /The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications/, Springer International Publishing, 2020. \[[https://link.springer.com/chapter/10.1007/978-3-030-35713-9_4 link]\]
 
 == Preprints and in preparation
-=== 2024
-- D. Maity, D. Goswami, "On the effect of quantization on extended dynamic mode decomposition", submitted.
+=== 2025
+- S. Ataei, D. Maity, D. Goswami, "QSID-MPC: Model predictive control with system identification from quantized data", under revision. \[[https://arxiv.org/abs/2503.19102 link]\]
+- S. Ataei, D. Maity, D. Goswami, "Koopman meets limited bandwidth: Effect of quantization on data-driven linear prediction and control of nonlinear systems", submitted. \[[https://arxiv.org/abs/2501.07714 link]\]
 - S. M. Rajkumar, S. Cheng, N. Hovakimyan, D. Goswami, "Linear model predictive control for quadrotors with an analytically derived Koopman model", submitted. \[[https://arxiv.org/abs/2409.12374 link]\]
-- I. Nayak, D. Goswami, M. Kumar, F. Texeira, "Temporally-consistent Koopman autoencoders for forecasting dynamical systems", submitted. \[[https://arxiv.org/abs/2403.12335 link]\]
+
 
 == Recent journal publications 
+=== 2025
+- I. Nayak, A. Chakrabarti, D. Goswami, M. Kumar, F. Texeira, "Temporally-consistent Koopman autoencoders for forecasting dynamical systems", to appear in \Nature Scientific Reports\. \[[https://arxiv.org/abs/2403.12335 link]\]
 === 2022
 - D. Goswami, A. Riggins, and D. A. Paley, "Data-driven prediction of urban micromobility: A study of dockless electric scooters", /IEEE Control Systems Magazine/, vol. 42, no. 5, pp. 18-31, October 2022. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
 === 2021
@@ -26,8 +29,12 @@
 - D. Goswami , Emma Thackray, and D. A. Paley, "Constrained Ulam Dynamic Mode Decomposition: Approximation of the Perron-Frobenius Operator for Deterministic and Stochastic Systems", /IEEE Control Systems Letters/, vol. 2, pp. 809-814, October 2018. \[[https://ieeexplore.ieee.org/document/8392395 link]\]
 
 == Recent conference publications
+=== 2025
+- D. Maity, D. Goswami, "On the effect of quantization on extended dynamic mode decomposition", to appear at /American Control Conference/ 2025. \[[https://arxiv.org/abs/2410.02803 link]\]
+- D. Goswami, "Feature-based echo-state networks: A step towards interpretability and minimalism in reservoir computer", to appear at /American Control Conference/ 2025. \[[https://arxiv.org/abs/2403.19806 link]\]
+- A. Chakrabarti, I. Nayak, D. Goswami, "Temporally-consistent bilinearly recurrent autoencoders for control systems", to appear at /American Control Conference/ 2025. \[[https://arxiv.org/abs/2503.19085 link]\]
 === 2024
-- D. Maity, D. Goswami, "On the effect of quantization on dynamic mode decomposition", accepted for presentation at /IEEE Conference on Decision and Control/ 2024.
+- D. Maity, D. Goswami, "On the effect of quantization on dynamic mode decomposition", /IEEE Conference on Decision and Control/, pp. 8778-8785, Milan, Italy, December 2024.
 === 2023
 - D. Goswami, "Sequential learning from noisy data: Data-assimilation meets echo-state network", /IEEE Conference on Decision and Control/, pp. 7675-7680, Singapore, December 2023. \[[https://ieeexplore.ieee.org/abstract/document/10383680 link]\]
 - D. Goswami, "Delay embedded Echo-State Network: A predictor for partially observed systems", IFAC World Congress, Yokohama, July 2023. \[[https://www.sciencedirect.com/science/article/pii/S2405896323008376 link]\]
