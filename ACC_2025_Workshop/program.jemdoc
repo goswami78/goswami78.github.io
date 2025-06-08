@@ -22,10 +22,10 @@ Time  | Title  | Speaker | Affiliation ||
  11:00am-11:30pm | [mamduhi.html Interaction-Aware Control and Planning in Autonomous Networked Systems] | Vahid Mamduhi | University of Birmingham ||
  11:30am-12:00pm | [baras.html Efficiency and Performance of Multi-Agent Systems: Foundations on the Role of ML and AI] | John S. Baras | University of Maryland ||
  12:00pm-1:30pm | *Lunch Break* ||
- *Session 3* | *Optimal Control under Communication Constraint* ||
+ *Session 3* | *Decision Making under Communication Constraint* ||
  1:30pm-2:00pm  | [basar.html Intricacies of Information Structures in Stochastic Dynamic Games] | Tamer Basar | University of Illinois at Urbana Champaign ||
  2:00pm-2:30pm  | [tanaka.html Policy Gradient Method over the Input-Output History Model] | Tomonori Sadamoto | The University of Electro-Communications, Japan ||
- 2:30pm-3:00pm  | [ranade.html TBD] | Gireeja Ranade | University of California, Berkeley ||
+ 2:30pm-3:00pm  | [ranade.html Decomposing Prediction Mechanisms for In-context Recall: A Toy Problem using Dynamical Systems] | Gireeja Ranade | University of California, Berkeley ||
  3:00pm-3:30pm | *Coffee Break* ||
  *Session 4* | *System Identification and Stability* ||
  3:30pm-4:00pm  | [yedavalli.html New Convex Stability Indices instead of Eigenvalues for Stability] | Rama Yedavalli | The Ohio State University ||
