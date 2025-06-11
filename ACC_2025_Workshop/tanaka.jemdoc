@@ -3,13 +3,13 @@
 
 === Speaker
 
-Takashi Tanaka
+Tomonori Sadamoto
 
 === Affiliation
 
-Associate Professor\n
-School of Aeronautics and Astronautics\n
-Purdue University
+Assistant Professor\n
+Department of Mechanical Engineering and Intelligent Systems\n
+The University of Electro-Communications, Japan
 
 === Abstract
 
@@ -17,6 +17,6 @@ In this talk, we will discuss a policy gradient method (PGM) over the so-called 
 
 === Bio
 ~~~
-{}{img_left}{photos/Tanaka.jpg}{alt text}{200}{302}{}
-Takashi Tanaka is an Associate Professor at the School of Aeronautics and Astronautics and the Elmore Family School of Electrical and Computer Engineering at Purdue University. He received his B.S. from the University of Tokyo and his M.S. and Ph.D. degrees in aerospace engineering from the University of Illinois at Urbana-Champaign. Dr. Tanaka was a Postdoctoral Associate with the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology from 2012 to 2015, and a postdoctoral researcher at KTH Royal Institute of Technology from 2015 to 2017. He was an Assistant Professor in the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin between 2017 and 2024, where he was an Associate Professor in 2024. Dr. Tanaka's research interests include control theory and its applications, most recently the information-theoretic perspectives of optimal control problems. He received the DARPA Young Faculty Award, the AFOSR Young Investigator Program Award, and the NSF Career Award.
+{}{img_left}{photos/sadamoto.jpg}{alt text}{200}{300}{}
+Tomonori Sadamoto received his Ph.D. degree from the Tokyo Institute of Technology, Tokyo, Japan, in 2015. From 2015 to 2016, he was a visiting researcher at the School of Electrical Engineering, Royal Institute of Technology (KTH), Stockholm, Sweden. From 2016 to November 2018, he was a specially appointed assistant professor in the Department of Systems and Control Engineering, Graduate School of Engineering, Tokyo Institute of Technology. From November 2018 to October 2023, he served as an assistant professor in the Department of Mechanical and Intelligent Systems Engineering, University of Electro-Communications. Since November 2023, he has been an associate professor in the same department. In 2014, he was named a finalist for the Best Student Paper Award at the 13th European Control Conference. In 2020, he received the IEEE Control Systems Magazine Outstanding Paper Award.
 ~~~
