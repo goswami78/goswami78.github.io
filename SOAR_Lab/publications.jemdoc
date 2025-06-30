@@ -9,13 +9,13 @@
 
 == Preprints and in preparation
 === 2025
-- S. Ataei, D. Maity, D. Goswami, "QSID-MPC: Model predictive control with system identification from quantized data", under revision. \[[https://arxiv.org/abs/2503.19102 link]\]
 - S. Ataei, D. Maity, D. Goswami, "Koopman meets limited bandwidth: Effect of quantization on data-driven linear prediction and control of nonlinear systems", submitted. \[[https://arxiv.org/abs/2501.07714 link]\]
 - S. M. Rajkumar, S. Cheng, N. Hovakimyan, D. Goswami, "Linear model predictive control for quadrotors with an analytically derived Koopman model", submitted. \[[https://arxiv.org/abs/2409.12374 link]\]
 
 
 == Recent journal publications 
 === 2025
+- S. Ataei, D. Maity, D. Goswami, "QSID-MPC: Model predictive control with system identification from quantized data", to appear in \IEEE Control Systems Letters\. \[[https://ieeexplore.ieee.org/document/11054048 link]\]
 - I. Nayak, A. Chakrabarti, D. Goswami, M. Kumar, F. Texeira, "Temporally-consistent Koopman autoencoders for forecasting dynamical systems", to appear in \Nature Scientific Reports\. \[[https://arxiv.org/abs/2403.12335 link]\]
 === 2022
 - D. Goswami, A. Riggins, and D. A. Paley, "Data-driven prediction of urban micromobility: A study of dockless electric scooters", /IEEE Control Systems Magazine/, vol. 42, no. 5, pp. 18-31, October 2022. \[[https://ieeexplore.ieee.org/abstract/document/9905516 link]\]
